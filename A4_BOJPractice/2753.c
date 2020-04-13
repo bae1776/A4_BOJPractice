@@ -11,5 +11,6 @@ int main() {
 	scanf("%hd", &year);
 	output = (year % 400 == 0) ? 1 : ((year % 100 == 0) ? 0 : ((year % 4) ? 0 : 1));
 	printf("%d", output);
+
 	return 0;
 }

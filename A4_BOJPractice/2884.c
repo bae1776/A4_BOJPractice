@@ -21,5 +21,6 @@ int main() {
 		hour += 24;
 	}
 
+
 	printf("%d %d", hour, min);
 }
