@@ -5,5 +5,28 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1. PS 기초">
+      <UniqueIdentifier>{1e1a4e6e-40eb-4f45-8de2-9108031a9c16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. DP">
+      <UniqueIdentifier>{1fe93735-0c17-49ac-be0e-b9fec2839532}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="A_ProblemSolving.cpp">
+      <Filter>소스 파일\1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="B_Time_MemoryComplexity.cpp">
+      <Filter>소스 파일\1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Cpp_cincout.cpp">
+      <Filter>소스 파일\1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="D_CppSTL.cpp">
+      <Filter>소스 파일\1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="A_WhatisDP.cpp">
+      <Filter>소스 파일\2. DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

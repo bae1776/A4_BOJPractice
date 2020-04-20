@@ -112,6 +112,9 @@
     <Filter Include="BOJ Source File\0. Default/Challenger">
       <UniqueIdentifier>{5996d03c-173a-4281-a1fa-22835f429294}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Gori Problems\연습1. PS 기초">
+      <UniqueIdentifier>{f4177399-b641-445b-aec4-1828a8ce902c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="999.c">
@@ -776,6 +779,39 @@
     </ClCompile>
     <ClCompile Include="13159%28Challenger%29.c">
       <Filter>BOJ Source File\0. Default/Challenger</Filter>
+    </ClCompile>
+    <ClCompile Include="2557.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="11718.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="16430.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="17496.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="3009.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="10828.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="10845.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="10866.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="2751.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="16435.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="11650.cpp">
+      <Filter>Gori Problems\연습1. PS 기초</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
