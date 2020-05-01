@@ -115,6 +115,12 @@
     <Filter Include="Gori Problems\연습1. PS 기초">
       <UniqueIdentifier>{f4177399-b641-445b-aec4-1828a8ce902c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Gori Problems\연습2. DP">
+      <UniqueIdentifier>{a6539c1d-6b38-4407-9003-a355ebe99581}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\연습3. Greedy">
+      <UniqueIdentifier>{c27595c1-1568-4fb0-8811-7f1dcd6efb25}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="999.c">
@@ -812,6 +818,21 @@
     </ClCompile>
     <ClCompile Include="11650.cpp">
       <Filter>Gori Problems\연습1. PS 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.cpp">
+      <Filter>Gori Problems\연습2. DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1904.cpp">
+      <Filter>Gori Problems\연습2. DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>Gori Problems\연습2. DP</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>Gori Problems\연습2. DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2579.cpp">
+      <Filter>Gori Problems\연습2. DP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
