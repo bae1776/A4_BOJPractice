@@ -46,5 +46,8 @@
     <ClCompile Include="D_Tips_memset.cpp">
       <Filter>소스 파일\2. DP</Filter>
     </ClCompile>
+    <ClCompile Include="C_Greedy_Implement.cpp">
+      <Filter>소스 파일\3. Greedy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

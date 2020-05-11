@@ -834,6 +834,9 @@
     <ClCompile Include="2579.cpp">
       <Filter>Gori Problems\연습2. DP</Filter>
     </ClCompile>
+    <ClCompile Include="1965.cpp">
+      <Filter>Gori Problems\연습2. DP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="소스 제외안된건 추가하란 뜻.txt">
