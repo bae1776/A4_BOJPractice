@@ -837,6 +837,39 @@
     <ClCompile Include="1965.cpp">
       <Filter>Gori Problems\연습2. DP</Filter>
     </ClCompile>
+    <ClCompile Include="4796.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1789.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1049.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="13305.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1449.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1080.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="2812.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="11000.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1744.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="2437.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1700.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="소스 제외안된건 추가하란 뜻.txt">
