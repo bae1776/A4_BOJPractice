@@ -121,6 +121,9 @@
     <Filter Include="Gori Problems\연습3. Greedy">
       <UniqueIdentifier>{c27595c1-1568-4fb0-8811-7f1dcd6efb25}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Gori Problems\연습4. Graph">
+      <UniqueIdentifier>{a97777bc-15ff-490b-9b6b-e807486fd3e6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="999.c">
@@ -868,6 +871,36 @@
       <Filter>Gori Problems\연습3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="1700.cpp">
+      <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="10451.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2606.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2667.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="4963.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2583.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2468.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="1389.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="7576.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2178.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2437.c">
       <Filter>Gori Problems\연습3. Greedy</Filter>
     </ClCompile>
   </ItemGroup>

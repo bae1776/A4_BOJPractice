@@ -1,53 +1,62 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
+    <Filter Include="GoriStudy">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\1. PS 기초">
+    <Filter Include="GoriStudy\1. PS 기초">
       <UniqueIdentifier>{1e1a4e6e-40eb-4f45-8de2-9108031a9c16}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\2. DP">
+    <Filter Include="GoriStudy\2. DP">
       <UniqueIdentifier>{1fe93735-0c17-49ac-be0e-b9fec2839532}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\3. Greedy">
+    <Filter Include="GoriStudy\3. Greedy">
       <UniqueIdentifier>{4f8476fe-1a9a-4d57-bb91-37a7e0fac086}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GoriStudy\4. Graph, DFS, BFS">
+      <UniqueIdentifier>{a4d65963-49d4-4db4-9881-72136a4c3bd7}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A_ProblemSolving.cpp">
-      <Filter>소스 파일\1. PS 기초</Filter>
+      <Filter>GoriStudy\1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="B_Time_MemoryComplexity.cpp">
-      <Filter>소스 파일\1. PS 기초</Filter>
+      <Filter>GoriStudy\1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="C_Cpp_cincout.cpp">
-      <Filter>소스 파일\1. PS 기초</Filter>
+      <Filter>GoriStudy\1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="D_CppSTL.cpp">
-      <Filter>소스 파일\1. PS 기초</Filter>
+      <Filter>GoriStudy\1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="A_WhatisDP.cpp">
-      <Filter>소스 파일\2. DP</Filter>
+      <Filter>GoriStudy\2. DP</Filter>
     </ClCompile>
     <ClCompile Include="A_What_is_Greedy.cpp">
-      <Filter>소스 파일\3. Greedy</Filter>
+      <Filter>GoriStudy\3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="B_Condition_of_GreedyApproach.cpp">
-      <Filter>소스 파일\3. Greedy</Filter>
+      <Filter>GoriStudy\3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="B_Condition_of_DP.cpp">
-      <Filter>소스 파일\2. DP</Filter>
+      <Filter>GoriStudy\2. DP</Filter>
     </ClCompile>
     <ClCompile Include="C_DP_Implement구현.cpp">
-      <Filter>소스 파일\2. DP</Filter>
+      <Filter>GoriStudy\2. DP</Filter>
     </ClCompile>
     <ClCompile Include="D_Tips_memset.cpp">
-      <Filter>소스 파일\2. DP</Filter>
+      <Filter>GoriStudy\2. DP</Filter>
     </ClCompile>
     <ClCompile Include="C_Greedy_Implement.cpp">
-      <Filter>소스 파일\3. Greedy</Filter>
+      <Filter>GoriStudy\3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="A_Graph.cpp">
+      <Filter>GoriStudy\4. Graph, DFS, BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="B_Graph_traversal.cpp">
+      <Filter>GoriStudy\4. Graph, DFS, BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
