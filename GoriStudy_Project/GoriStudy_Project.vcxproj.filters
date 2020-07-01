@@ -17,6 +17,9 @@
     <Filter Include="GoriStudy\4. Graph, DFS, BFS">
       <UniqueIdentifier>{a4d65963-49d4-4db4-9881-72136a4c3bd7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="GoriStudy\5. BruteForce and Backtracking">
+      <UniqueIdentifier>{f49eb5d2-3cfe-4f1d-90ab-e95761761f97}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A_ProblemSolving.cpp">
@@ -57,6 +60,12 @@
     </ClCompile>
     <ClCompile Include="B_Graph_traversal.cpp">
       <Filter>GoriStudy\4. Graph, DFS, BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="A_BruteForce.cpp">
+      <Filter>GoriStudy\5. BruteForce and Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="B_BackTracking.cpp">
+      <Filter>GoriStudy\5. BruteForce and Backtracking</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

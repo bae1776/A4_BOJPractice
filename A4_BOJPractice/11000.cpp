@@ -18,7 +18,7 @@ int main(void) {
 
 	vector<pair<int, int>> lectureTime;
 	lectureTime.reserve(lectureCount + 1);
-	priority_queue<int, vector<int>, greater<int>> classrooms;
+	priority_queue<int, vector<int>, greater<>> classrooms;
 	classrooms.push(0);
 
 	for (int i = 0; i < lectureCount; i++)

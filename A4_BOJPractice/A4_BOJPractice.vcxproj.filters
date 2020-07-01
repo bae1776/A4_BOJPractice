@@ -124,6 +124,9 @@
     <Filter Include="Gori Problems\연습4. Graph">
       <UniqueIdentifier>{a97777bc-15ff-490b-9b6b-e807486fd3e6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Gori Problems\연습5. 브루트포스와 백트래킹">
+      <UniqueIdentifier>{eb89b0fd-6001-4bce-85f4-49444a7ff6d6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="999.c">
@@ -902,6 +905,12 @@
     </ClCompile>
     <ClCompile Include="2437.c">
       <Filter>Gori Problems\연습3. Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="2206.cpp">
+      <Filter>Gori Problems\연습4. Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="1526.cpp">
+      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
