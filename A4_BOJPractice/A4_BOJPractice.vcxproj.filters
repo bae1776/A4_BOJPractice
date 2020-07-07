@@ -927,6 +927,12 @@
     <ClCompile Include="15684.cpp">
       <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
+    <ClCompile Include="2661.cpp">
+      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="2239.cpp">
+      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="소스 제외안된건 추가하란 뜻.txt">
