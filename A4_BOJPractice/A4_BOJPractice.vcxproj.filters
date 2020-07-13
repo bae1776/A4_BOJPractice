@@ -106,9 +106,6 @@
     <Filter Include="Gori Problems\문제집5. DP 1">
       <UniqueIdentifier>{3a966215-d57d-4e61-9c9c-93a61ea14c4a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Gori Problems\문제집6. 그래프 1 %283/11%29">
-      <UniqueIdentifier>{baa04b9b-f7b1-4793-97da-a7cfe5cadd41}</UniqueIdentifier>
-    </Filter>
     <Filter Include="BOJ Source File\0. Default/Challenger">
       <UniqueIdentifier>{5996d03c-173a-4281-a1fa-22835f429294}</UniqueIdentifier>
     </Filter>
@@ -127,11 +124,11 @@
     <Filter Include="Gori Problems\연습5. 브루트포스와 백트래킹">
       <UniqueIdentifier>{eb89b0fd-6001-4bce-85f4-49444a7ff6d6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Gori Problems\문제집6. 그래프 1">
+      <UniqueIdentifier>{baa04b9b-f7b1-4793-97da-a7cfe5cadd41}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="999.c">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
     <ClCompile Include="1008.c">
       <Filter>BOJ Source File\1. 입출력과 사칙연산</Filter>
     </ClCompile>
@@ -784,10 +781,10 @@
       <Filter>Gori Problems\문제집5. DP 1</Filter>
     </ClCompile>
     <ClCompile Include="11724.c">
-      <Filter>Gori Problems\문제집6. 그래프 1 %283/11%29</Filter>
+      <Filter>Gori Problems\문제집6. 그래프 1</Filter>
     </ClCompile>
     <ClCompile Include="1707.c">
-      <Filter>Gori Problems\문제집6. 그래프 1 %283/11%29</Filter>
+      <Filter>Gori Problems\문제집6. 그래프 1</Filter>
     </ClCompile>
     <ClCompile Include="13159%28Challenger%29.c">
       <Filter>BOJ Source File\0. Default/Challenger</Filter>
@@ -932,6 +929,18 @@
     </ClCompile>
     <ClCompile Include="2239.cpp">
       <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="999.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger</Filter>
+    </ClCompile>
+    <ClCompile Include="2331.c">
+      <Filter>Gori Problems\문제집6. 그래프 1</Filter>
+    </ClCompile>
+    <ClCompile Include="9466.cpp">
+      <Filter>Gori Problems\문제집6. 그래프 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2146.cpp">
+      <Filter>Gori Problems\문제집6. 그래프 1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
