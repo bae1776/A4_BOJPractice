@@ -109,23 +109,26 @@
     <Filter Include="BOJ Source File\0. Default/Challenger">
       <UniqueIdentifier>{5996d03c-173a-4281-a1fa-22835f429294}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Gori Problems\연습1. PS 기초">
-      <UniqueIdentifier>{f4177399-b641-445b-aec4-1828a8ce902c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Gori Problems\연습2. DP">
-      <UniqueIdentifier>{a6539c1d-6b38-4407-9003-a355ebe99581}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Gori Problems\연습3. Greedy">
-      <UniqueIdentifier>{c27595c1-1568-4fb0-8811-7f1dcd6efb25}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Gori Problems\연습4. Graph">
-      <UniqueIdentifier>{a97777bc-15ff-490b-9b6b-e807486fd3e6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Gori Problems\연습5. 브루트포스와 백트래킹">
-      <UniqueIdentifier>{eb89b0fd-6001-4bce-85f4-49444a7ff6d6}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Gori Problems\문제집6. 그래프 1">
       <UniqueIdentifier>{baa04b9b-f7b1-4793-97da-a7cfe5cadd41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\201_1. PS 기초">
+      <UniqueIdentifier>{f4177399-b641-445b-aec4-1828a8ce902c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\201_3. Greedy">
+      <UniqueIdentifier>{c27595c1-1568-4fb0-8811-7f1dcd6efb25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\201_2. DP">
+      <UniqueIdentifier>{a6539c1d-6b38-4407-9003-a355ebe99581}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\201_4. Graph">
+      <UniqueIdentifier>{a97777bc-15ff-490b-9b6b-e807486fd3e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\201_5. 브루트포스와 백트래킹">
+      <UniqueIdentifier>{eb89b0fd-6001-4bce-85f4-49444a7ff6d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\20S_1">
+      <UniqueIdentifier>{1bfb54b4-72c8-487c-9924-5d8db94b0d6a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -790,145 +793,145 @@
       <Filter>BOJ Source File\0. Default/Challenger</Filter>
     </ClCompile>
     <ClCompile Include="2557.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="11718.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="16430.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="17496.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="3009.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="10828.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="10845.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="10866.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="2751.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="16435.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="11650.cpp">
-      <Filter>Gori Problems\연습1. PS 기초</Filter>
+      <Filter>Gori Problems\201_1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="1003.cpp">
-      <Filter>Gori Problems\연습2. DP</Filter>
+      <Filter>Gori Problems\201_2. DP</Filter>
     </ClCompile>
     <ClCompile Include="1904.cpp">
-      <Filter>Gori Problems\연습2. DP</Filter>
+      <Filter>Gori Problems\201_2. DP</Filter>
     </ClCompile>
     <ClCompile Include="11726.cpp">
-      <Filter>Gori Problems\연습2. DP</Filter>
+      <Filter>Gori Problems\201_2. DP</Filter>
     </ClCompile>
     <ClCompile Include="9095.cpp">
-      <Filter>Gori Problems\연습2. DP</Filter>
+      <Filter>Gori Problems\201_2. DP</Filter>
     </ClCompile>
     <ClCompile Include="2579.cpp">
-      <Filter>Gori Problems\연습2. DP</Filter>
+      <Filter>Gori Problems\201_2. DP</Filter>
     </ClCompile>
     <ClCompile Include="1965.cpp">
-      <Filter>Gori Problems\연습2. DP</Filter>
+      <Filter>Gori Problems\201_2. DP</Filter>
     </ClCompile>
     <ClCompile Include="4796.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="1789.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="1049.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="13305.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="1449.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="1080.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="2812.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="11000.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="1744.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="2437.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="1700.cpp">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="10451.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="2606.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="2667.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="4963.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="2583.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="2468.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="1389.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="7576.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="2178.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="2437.c">
-      <Filter>Gori Problems\연습3. Greedy</Filter>
+      <Filter>Gori Problems\201_3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="2206.cpp">
-      <Filter>Gori Problems\연습4. Graph</Filter>
+      <Filter>Gori Problems\201_4. Graph</Filter>
     </ClCompile>
     <ClCompile Include="1526.cpp">
-      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+      <Filter>Gori Problems\201_5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="14500.cpp">
-      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+      <Filter>Gori Problems\201_5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="6603.cpp">
-      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+      <Filter>Gori Problems\201_5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="1759.cpp">
-      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+      <Filter>Gori Problems\201_5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="1987.cpp">
-      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+      <Filter>Gori Problems\201_5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="15684.cpp">
-      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+      <Filter>Gori Problems\201_5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="2661.cpp">
-      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+      <Filter>Gori Problems\201_5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="2239.cpp">
-      <Filter>Gori Problems\연습5. 브루트포스와 백트래킹</Filter>
+      <Filter>Gori Problems\201_5. 브루트포스와 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="999.cpp">
       <Filter>BOJ Source File\0. Default/Challenger</Filter>
@@ -941,6 +944,12 @@
     </ClCompile>
     <ClCompile Include="2146.cpp">
       <Filter>Gori Problems\문제집6. 그래프 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2596.cpp">
+      <Filter>Gori Problems\20S_1</Filter>
+    </ClCompile>
+    <ClCompile Include="14490.cpp">
+      <Filter>Gori Problems\20S_1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

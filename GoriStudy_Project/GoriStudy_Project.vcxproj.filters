@@ -1,71 +1,71 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="GoriStudy">
+    <Filter Include="GoriStudy20201">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="GoriStudy\1. PS 기초">
+    <Filter Include="GoriStudy20201\1. PS 기초">
       <UniqueIdentifier>{1e1a4e6e-40eb-4f45-8de2-9108031a9c16}</UniqueIdentifier>
     </Filter>
-    <Filter Include="GoriStudy\2. DP">
+    <Filter Include="GoriStudy20201\2. DP">
       <UniqueIdentifier>{1fe93735-0c17-49ac-be0e-b9fec2839532}</UniqueIdentifier>
     </Filter>
-    <Filter Include="GoriStudy\3. Greedy">
+    <Filter Include="GoriStudy20201\3. Greedy">
       <UniqueIdentifier>{4f8476fe-1a9a-4d57-bb91-37a7e0fac086}</UniqueIdentifier>
     </Filter>
-    <Filter Include="GoriStudy\4. Graph, DFS, BFS">
+    <Filter Include="GoriStudy20201\4. Graph, DFS, BFS">
       <UniqueIdentifier>{a4d65963-49d4-4db4-9881-72136a4c3bd7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="GoriStudy\5. BruteForce and Backtracking">
+    <Filter Include="GoriStudy20201\5. BruteForce and Backtracking">
       <UniqueIdentifier>{f49eb5d2-3cfe-4f1d-90ab-e95761761f97}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A_ProblemSolving.cpp">
-      <Filter>GoriStudy\1. PS 기초</Filter>
+      <Filter>GoriStudy20201\1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="B_Time_MemoryComplexity.cpp">
-      <Filter>GoriStudy\1. PS 기초</Filter>
+      <Filter>GoriStudy20201\1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="C_Cpp_cincout.cpp">
-      <Filter>GoriStudy\1. PS 기초</Filter>
+      <Filter>GoriStudy20201\1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="D_CppSTL.cpp">
-      <Filter>GoriStudy\1. PS 기초</Filter>
+      <Filter>GoriStudy20201\1. PS 기초</Filter>
     </ClCompile>
     <ClCompile Include="A_WhatisDP.cpp">
-      <Filter>GoriStudy\2. DP</Filter>
+      <Filter>GoriStudy20201\2. DP</Filter>
     </ClCompile>
     <ClCompile Include="A_What_is_Greedy.cpp">
-      <Filter>GoriStudy\3. Greedy</Filter>
+      <Filter>GoriStudy20201\3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="B_Condition_of_GreedyApproach.cpp">
-      <Filter>GoriStudy\3. Greedy</Filter>
+      <Filter>GoriStudy20201\3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="B_Condition_of_DP.cpp">
-      <Filter>GoriStudy\2. DP</Filter>
+      <Filter>GoriStudy20201\2. DP</Filter>
     </ClCompile>
     <ClCompile Include="C_DP_Implement구현.cpp">
-      <Filter>GoriStudy\2. DP</Filter>
+      <Filter>GoriStudy20201\2. DP</Filter>
     </ClCompile>
     <ClCompile Include="D_Tips_memset.cpp">
-      <Filter>GoriStudy\2. DP</Filter>
+      <Filter>GoriStudy20201\2. DP</Filter>
     </ClCompile>
     <ClCompile Include="C_Greedy_Implement.cpp">
-      <Filter>GoriStudy\3. Greedy</Filter>
+      <Filter>GoriStudy20201\3. Greedy</Filter>
     </ClCompile>
     <ClCompile Include="A_Graph.cpp">
-      <Filter>GoriStudy\4. Graph, DFS, BFS</Filter>
+      <Filter>GoriStudy20201\4. Graph, DFS, BFS</Filter>
     </ClCompile>
     <ClCompile Include="B_Graph_traversal.cpp">
-      <Filter>GoriStudy\4. Graph, DFS, BFS</Filter>
+      <Filter>GoriStudy20201\4. Graph, DFS, BFS</Filter>
     </ClCompile>
     <ClCompile Include="A_BruteForce.cpp">
-      <Filter>GoriStudy\5. BruteForce and Backtracking</Filter>
+      <Filter>GoriStudy20201\5. BruteForce and Backtracking</Filter>
     </ClCompile>
     <ClCompile Include="B_BackTracking.cpp">
-      <Filter>GoriStudy\5. BruteForce and Backtracking</Filter>
+      <Filter>GoriStudy20201\5. BruteForce and Backtracking</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
