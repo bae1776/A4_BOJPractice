@@ -951,6 +951,15 @@
     <ClCompile Include="14490.cpp">
       <Filter>Gori Problems\20S_1</Filter>
     </ClCompile>
+    <ClCompile Include="11985.cpp">
+      <Filter>Gori Problems\20S_1</Filter>
+    </ClCompile>
+    <ClCompile Include="2504.cpp">
+      <Filter>Gori Problems\20S_1</Filter>
+    </ClCompile>
+    <ClCompile Include="10164.cpp">
+      <Filter>Gori Problems\20S_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="소스 제외안된건 추가하란 뜻.txt">
