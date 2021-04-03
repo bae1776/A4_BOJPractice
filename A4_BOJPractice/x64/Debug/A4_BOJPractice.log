@@ -1,7 +1,4 @@
-﻿  1162.cpp
-C:\Users\USER\Desktop\Newjinsung 190305\Coding\A4_BOJPractice\A4_BOJPractice\1162.cpp(74,34): warning C4805: '==': 연산에 '_Ty' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-          with
-          [
-              _Ty=char
-          ]
-  A4_BOJPractice.vcxproj -> C:\Users\USER\Desktop\Newjinsung 190305\Coding\A4_BOJPractice\x64\Debug\A4_BOJPractice.exe
+﻿  15997.cpp
+C:\Users\User\Desktop\JinsungPro 1911\Coding\A4_BOJPractice\A4_BOJPractice\15997.cpp(154,37): warning C4267: '-=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\JinsungPro 1911\Coding\A4_BOJPractice\A4_BOJPractice\15997.cpp(101): warning C4715: 'getTeamNumber': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  A4_BOJPractice.vcxproj -> C:\Users\User\Desktop\JinsungPro 1911\Coding\A4_BOJPractice\x64\Debug\A4_BOJPractice.exe
