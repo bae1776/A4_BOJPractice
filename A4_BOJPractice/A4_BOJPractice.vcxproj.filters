@@ -139,6 +139,18 @@
     <Filter Include="Gori Problems\20S_4">
       <UniqueIdentifier>{f2d82fe4-0166-4b20-ad92-d9037fbefe17}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Gori Problems\202_1. 플로이드">
+      <UniqueIdentifier>{da4f11b2-44b0-4b5d-8948-a154356462a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\202_2. 다익스트라">
+      <UniqueIdentifier>{9c0e2471-ec08-45a3-b4ab-2ad0b6e85f4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\202_3. 이항 계수">
+      <UniqueIdentifier>{dbbfb8dd-f54d-4182-af2d-4e2e0cf189cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\20W_1">
+      <UniqueIdentifier>{7be134e2-760a-4616-b4fa-5541d68680c8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1008.c">
@@ -1025,6 +1037,63 @@
     </ClCompile>
     <ClCompile Include="16920.cpp">
       <Filter>Gori Problems\20S_4</Filter>
+    </ClCompile>
+    <ClCompile Include="2879.cpp">
+      <Filter>Gori Problems\20S_1</Filter>
+    </ClCompile>
+    <ClCompile Include="1445.cpp">
+      <Filter>Gori Problems\20S_2</Filter>
+    </ClCompile>
+    <ClCompile Include="1613.cpp">
+      <Filter>Gori Problems\202_1. 플로이드</Filter>
+    </ClCompile>
+    <ClCompile Include="11404.cpp">
+      <Filter>Gori Problems\202_1. 플로이드</Filter>
+    </ClCompile>
+    <ClCompile Include="2096.cpp">
+      <Filter>Gori Problems\202_1. 플로이드</Filter>
+    </ClCompile>
+    <ClCompile Include="1486.cpp">
+      <Filter>Gori Problems\202_1. 플로이드</Filter>
+    </ClCompile>
+    <ClCompile Include="17182.cpp">
+      <Filter>Gori Problems\202_1. 플로이드</Filter>
+    </ClCompile>
+    <ClCompile Include="14938.cpp">
+      <Filter>Gori Problems\202_1. 플로이드</Filter>
+    </ClCompile>
+    <ClCompile Include="10217.cpp">
+      <Filter>Gori Problems\202_2. 다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="1238.cpp">
+      <Filter>Gori Problems\202_2. 다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="2665.cpp">
+      <Filter>Gori Problems\202_2. 다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="4485.cpp">
+      <Filter>Gori Problems\202_2. 다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="1753.cpp">
+      <Filter>Gori Problems\202_2. 다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="16395.cpp">
+      <Filter>Gori Problems\202_3. 이항 계수</Filter>
+    </ClCompile>
+    <ClCompile Include="13977.cpp">
+      <Filter>Gori Problems\202_3. 이항 계수</Filter>
+    </ClCompile>
+    <ClCompile Include="11402.cpp">
+      <Filter>Gori Problems\202_3. 이항 계수</Filter>
+    </ClCompile>
+    <ClCompile Include="14172.cpp">
+      <Filter>Gori Problems\20W_1</Filter>
+    </ClCompile>
+    <ClCompile Include="14171.cpp">
+      <Filter>Gori Problems\20W_1</Filter>
+    </ClCompile>
+    <ClCompile Include="14170.cpp">
+      <Filter>Gori Problems\20W_1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
