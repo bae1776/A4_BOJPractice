@@ -1,5 +1,6 @@
 //https://www.acmicpc.net/problem/2920
 
+//음계
 //배열 오름차순, 내림차순 판단
 
 #define _CRT_SECURE_NO_WARNINGS

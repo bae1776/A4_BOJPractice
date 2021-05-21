@@ -1,9 +1,8 @@
 //https://www.acmicpc.net/problem/17496
 
-//스타후르츠를 재배하자
-//재배 가능 기간, 재배 소요 기간, 재배 가능 칸, 개당 수익이 주어질 때
-//얼마를 벌 수 있을지 구하시오.
-
+/*스타후르츠
+대회 링크 : https://www.acmicpc.net/category/detail/2062
+*/
 
 #include <iostream>
 using namespace std;

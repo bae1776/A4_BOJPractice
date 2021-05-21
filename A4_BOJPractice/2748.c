@@ -1,5 +1,6 @@
 //https://www.acmicpc.net/problem/2748
 
+//피보나치 수 2
 //n을 입력받아 n의 피보나치 수를 구하시오.
 //fib(0) = 0, fib(1) = 1임.
 

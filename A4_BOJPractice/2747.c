@@ -1,4 +1,4 @@
-//https://www.acmicpc.net/problem/9095
+//https://www.acmicpc.net/problem/2747
 
 //피보나치 수
 //n번째 피보나치 수를 출력하시오. (n <= 45)

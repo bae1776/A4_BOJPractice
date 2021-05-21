@@ -1,5 +1,6 @@
 //https://www.acmicpc.net/problem/10817
 
+//세 수
 //세 수를 입력받고 그 중 두번째로 큰 수를 출력하는 프로그램이다.
 
 #define _CRT_SECURE_NO_WARNINGS

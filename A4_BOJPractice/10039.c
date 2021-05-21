@@ -1,6 +1,6 @@
 //https://www.acmicpc.net/problem/10039
 
-//조정된 평균 점수
+//평균 점수
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
