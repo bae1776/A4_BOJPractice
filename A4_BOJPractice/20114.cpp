@@ -1,7 +1,6 @@
 //https://www.acmicpc.net/problem/20114
 
 /*미아 노트
-* 대회 링크 : https://www.acmicpc.net/category/detail/2335
 */
 
 #include <iostream>

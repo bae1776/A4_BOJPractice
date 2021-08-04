@@ -1,7 +1,6 @@
 //https://www.acmicpc.net/problem/20113
 
 /*긴급 회의
-* 대회 링크 : https://www.acmicpc.net/category/detail/2335
 */
 
 #include <iostream>

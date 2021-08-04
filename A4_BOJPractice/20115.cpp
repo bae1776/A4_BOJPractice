@@ -1,7 +1,6 @@
 //https://www.acmicpc.net/problem/20115
 
 /*에너지 드링크
-* 대회 링크 : https://www.acmicpc.net/category/detail/2335
 */
 
 #include <iostream>

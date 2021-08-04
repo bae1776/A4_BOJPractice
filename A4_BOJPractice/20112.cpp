@@ -1,7 +1,6 @@
 //https://www.acmicpc.net/problem/20112
 
 /*사토르 마방진
-* 대회 링크 : https://www.acmicpc.net/category/detail/2335
 */
 
 #include <iostream>

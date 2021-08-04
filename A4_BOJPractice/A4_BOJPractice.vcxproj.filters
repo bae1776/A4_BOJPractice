@@ -154,14 +154,14 @@
     <Filter Include="BOJ Source File\25. 최단 경로 %283/7%29">
       <UniqueIdentifier>{6d16a281-4bbd-4fca-8826-701bb8ae5261}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Gori Problems\20 Goricon %286/12%29">
-      <UniqueIdentifier>{fa0ebf90-e296-46e4-9d3c-59e8638b98f2}</UniqueIdentifier>
+    <Filter Include="Gori Problems\18 Goricon">
+      <UniqueIdentifier>{7f744eae-5c59-441c-b498-2044a881703c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Gori Problems\19 Goricon %284/10%29">
+    <Filter Include="Gori Problems\19 Goricon">
       <UniqueIdentifier>{42aa30e1-56ea-4ff8-ae9b-3d4d98314ef6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Gori Problems\18 Goricon %285/12%29">
-      <UniqueIdentifier>{7f744eae-5c59-441c-b498-2044a881703c}</UniqueIdentifier>
+    <Filter Include="Gori Problems\20 Goricon">
+      <UniqueIdentifier>{fa0ebf90-e296-46e4-9d3c-59e8638b98f2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1173,65 +1173,53 @@
     <ClCompile Include="10217.cpp">
       <Filter>BOJ Source File\25. 최단 경로 %283/7%29</Filter>
     </ClCompile>
-    <ClCompile Include="20121%28hard unso%29.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
-    </ClCompile>
-    <ClCompile Include="20120%28hard unso%29.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
-    </ClCompile>
-    <ClCompile Include="20119%28hard unso%29.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
-    </ClCompile>
-    <ClCompile Include="20118%28hard unso%29.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
-    </ClCompile>
     <ClCompile Include="20117.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
+      <Filter>Gori Problems\20 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="20116.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
+      <Filter>Gori Problems\20 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="20115.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
+      <Filter>Gori Problems\20 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="20114.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
+      <Filter>Gori Problems\20 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="20113.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
+      <Filter>Gori Problems\20 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="20112.cpp">
-      <Filter>Gori Problems\20 Goricon %286/12%29</Filter>
+      <Filter>Gori Problems\20 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="17496.cpp">
-      <Filter>Gori Problems\19 Goricon %284/10%29</Filter>
+      <Filter>Gori Problems\19 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="17499.c">
-      <Filter>Gori Problems\19 Goricon %284/10%29</Filter>
+      <Filter>Gori Problems\19 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="17502.c">
-      <Filter>Gori Problems\19 Goricon %284/10%29</Filter>
+      <Filter>Gori Problems\19 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="17504.c">
-      <Filter>Gori Problems\19 Goricon %284/10%29</Filter>
+      <Filter>Gori Problems\19 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="16430.cpp">
-      <Filter>Gori Problems\18 Goricon %285/12%29</Filter>
+      <Filter>Gori Problems\18 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="16435.cpp">
-      <Filter>Gori Problems\18 Goricon %285/12%29</Filter>
+      <Filter>Gori Problems\18 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="16431.c">
-      <Filter>Gori Problems\18 Goricon %285/12%29</Filter>
+      <Filter>Gori Problems\18 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="16432.c">
-      <Filter>Gori Problems\18 Goricon %285/12%29</Filter>
+      <Filter>Gori Problems\18 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="16433.c">
-      <Filter>Gori Problems\18 Goricon %285/12%29</Filter>
+      <Filter>Gori Problems\18 Goricon</Filter>
     </ClCompile>
-    <ClCompile Include="16434%28hard unso%29.c">
-      <Filter>Gori Problems\18 Goricon %285/12%29</Filter>
+    <ClCompile Include="16434.c">
+      <Filter>Gori Problems\18 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="2448.c">
       <Filter>BOJ Source File\0. Default/Challenger\StarDot</Filter>
@@ -1259,6 +1247,60 @@
     </ClCompile>
     <ClCompile Include="10992.c">
       <Filter>BOJ Source File\0. Default/Challenger\StarDot</Filter>
+    </ClCompile>
+    <ClCompile Include="16436.cpp">
+      <Filter>Gori Problems\18 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="16441.cpp">
+      <Filter>Gori Problems\18 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="16440.cpp">
+      <Filter>Gori Problems\18 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="16439.cpp">
+      <Filter>Gori Problems\18 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="16438.cpp">
+      <Filter>Gori Problems\18 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="16437.cpp">
+      <Filter>Gori Problems\18 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="17497.cpp">
+      <Filter>Gori Problems\19 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="17498.cpp">
+      <Filter>Gori Problems\19 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="17505.cpp">
+      <Filter>Gori Problems\19 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="17503.cpp">
+      <Filter>Gori Problems\19 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="17501.cpp">
+      <Filter>Gori Problems\19 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="17500.cpp">
+      <Filter>Gori Problems\19 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="20122.cpp">
+      <Filter>Gori Problems\20 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="20123.cpp">
+      <Filter>Gori Problems\20 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="20121.cpp">
+      <Filter>Gori Problems\20 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="20120.cpp">
+      <Filter>Gori Problems\20 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="20119.c">
+      <Filter>Gori Problems\20 Goricon</Filter>
+    </ClCompile>
+    <ClCompile Include="20118.cpp">
+      <Filter>Gori Problems\20 Goricon</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -1,7 +1,6 @@
 //https://www.acmicpc.net/problem/20117
 
 /*호반우 상인의 이상한 품질 계산법
-* 대회 링크 : https://www.acmicpc.net/category/detail/2335
 */
 
 #include <vector>

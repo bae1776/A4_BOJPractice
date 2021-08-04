@@ -1,7 +1,6 @@
 //https://www.acmicpc.net/problem/20116
 
 /*상자의 균형
-* 대회 링크 : https://www.acmicpc.net/category/detail/2335
 */
 
 #include <iostream>
