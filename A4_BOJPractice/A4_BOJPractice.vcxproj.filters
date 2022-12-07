@@ -214,9 +214,6 @@
     <Filter Include="Gori Problems\21S_1">
       <UniqueIdentifier>{8b9d161e-ed40-4313-a6ad-7b507f1995fb}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Gori Problems\21S_2 %281/2%29">
-      <UniqueIdentifier>{41cc15f1-569f-4998-b7cd-7c0f125996db}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Gori Problems\문제집8. 트리 1">
       <UniqueIdentifier>{bea9413e-1195-4b49-ace5-099402ee59d8}</UniqueIdentifier>
     </Filter>
@@ -225,6 +222,15 @@
     </Filter>
     <Filter Include="Gori Problems\문제집7. 분할 정복 %283/4%29">
       <UniqueIdentifier>{1c3cfa6c-e258-41f8-aa0f-2ae7d4d145f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\21S_2">
+      <UniqueIdentifier>{41cc15f1-569f-4998-b7cd-7c0f125996db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\21S_3">
+      <UniqueIdentifier>{740c5927-4451-441f-8aa8-cb88e715fcec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\21S_5">
+      <UniqueIdentifier>{bb7ad53f-6d2a-40d9-b4bf-3fcdda2d895c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1537,10 +1543,10 @@
       <Filter>Gori Problems\21S_1</Filter>
     </ClCompile>
     <ClCompile Include="1588.cpp">
-      <Filter>Gori Problems\21S_2 %281/2%29</Filter>
+      <Filter>Gori Problems\21S_2</Filter>
     </ClCompile>
-    <ClCompile Include="2339(unso).cpp">
-      <Filter>Gori Problems\21S_2 %281/2%29</Filter>
+    <ClCompile Include="2339.cpp">
+      <Filter>Gori Problems\21S_2</Filter>
     </ClCompile>
     <ClCompile Include="10815.cpp">
       <Filter>Gori Problems\문제집7. 분할 정복 %283/4%29</Filter>
@@ -1559,6 +1565,27 @@
     </ClCompile>
     <ClCompile Include="1476.cpp">
       <Filter>Gori Problems\문제집9. 완전 탐색 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2315.cpp">
+      <Filter>Gori Problems\21S_3</Filter>
+    </ClCompile>
+    <ClCompile Include="12920.cpp">
+      <Filter>Gori Problems\21S_3</Filter>
+    </ClCompile>
+    <ClCompile Include="2419.cpp">
+      <Filter>Gori Problems\21S_5</Filter>
+    </ClCompile>
+    <ClCompile Include="14868.c">
+      <Filter>Gori Problems\21S_5</Filter>
+    </ClCompile>
+    <ClCompile Include="14868.cpp">
+      <Filter>Gori Problems\21S_5</Filter>
+    </ClCompile>
+    <ClCompile Include="17081.cpp">
+      <Filter>Gori Problems\21S_5</Filter>
+    </ClCompile>
+    <ClCompile Include="2042.c">
+      <Filter>Gori Problems\21S_5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
