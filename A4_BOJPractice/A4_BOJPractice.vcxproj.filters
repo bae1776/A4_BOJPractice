@@ -238,6 +238,24 @@
     <Filter Include="Gori Problems\21_2_2">
       <UniqueIdentifier>{011dc640-9525-4e0f-b2f2-a6ec9babf4b9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Gori Problems\21_2_3">
+      <UniqueIdentifier>{e699b3b6-ffaa-4abb-bb50-8939ddafe7e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\21_2_4">
+      <UniqueIdentifier>{330d95f5-77e9-477b-8c7a-818665bfa072}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\21_2_5">
+      <UniqueIdentifier>{ec468b74-f501-4911-a96f-5f821290bb66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\21_2_6">
+      <UniqueIdentifier>{42d2bf48-3b74-4a8b-864f-5964490251c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\21_2_7">
+      <UniqueIdentifier>{0602f767-ba4f-43da-95f8-8cd799a757d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\21_2_8">
+      <UniqueIdentifier>{1663528e-ef38-46c5-b5b3-aeda4f0456b9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1008.c">
@@ -1125,7 +1143,7 @@
     <ClCompile Include="13549.cpp">
       <Filter>Gori Problems\20_W_4</Filter>
     </ClCompile>
-    <ClCompile Include="13015.cpp">
+    <ClCompile Include="13015%28go 21W4%29.cpp">
       <Filter>BOJ Source File\0. Default/Challenger\Star Dot</Filter>
     </ClCompile>
     <ClCompile Include="10997.cpp">
@@ -1631,6 +1649,84 @@
     </ClCompile>
     <ClCompile Include="1916.cpp">
       <Filter>Gori Problems\21_2_2</Filter>
+    </ClCompile>
+    <ClCompile Include="2517.cpp">
+      <Filter>Gori Problems\21_2_3</Filter>
+    </ClCompile>
+    <ClCompile Include="13306.cpp">
+      <Filter>Gori Problems\21_2_3</Filter>
+    </ClCompile>
+    <ClCompile Include="10840.cpp">
+      <Filter>Gori Problems\21_2_3</Filter>
+    </ClCompile>
+    <ClCompile Include="14502.cpp">
+      <Filter>Gori Problems\21_2_3</Filter>
+    </ClCompile>
+    <ClCompile Include="17613.cpp">
+      <Filter>Gori Problems\21_2_4</Filter>
+    </ClCompile>
+    <ClCompile Include="2549.cpp">
+      <Filter>Gori Problems\21_2_4</Filter>
+    </ClCompile>
+    <ClCompile Include="4792.cpp">
+      <Filter>Gori Problems\21_2_4</Filter>
+    </ClCompile>
+    <ClCompile Include="1305.cpp">
+      <Filter>Gori Problems\21_2_4</Filter>
+    </ClCompile>
+    <ClCompile Include="22343.cpp">
+      <Filter>Gori Problems\21_2_4</Filter>
+    </ClCompile>
+    <ClCompile Include="1620.c">
+      <Filter>Gori Problems\21_2_4</Filter>
+    </ClCompile>
+    <ClCompile Include="12930.cpp">
+      <Filter>Gori Problems\21_2_5</Filter>
+    </ClCompile>
+    <ClCompile Include="1708.cpp">
+      <Filter>Gori Problems\21_2_5</Filter>
+    </ClCompile>
+    <ClCompile Include="12104.cpp">
+      <Filter>Gori Problems\21_2_5</Filter>
+    </ClCompile>
+    <ClCompile Include="16985.cpp">
+      <Filter>Gori Problems\21_2_5</Filter>
+    </ClCompile>
+    <ClCompile Include="7469.cpp">
+      <Filter>Gori Problems\21_2_6</Filter>
+    </ClCompile>
+    <ClCompile Include="5573.cpp">
+      <Filter>Gori Problems\21_2_6</Filter>
+    </ClCompile>
+    <ClCompile Include="18443.cpp">
+      <Filter>Gori Problems\21_2_6</Filter>
+    </ClCompile>
+    <ClCompile Include="17267.cpp">
+      <Filter>Gori Problems\21_2_6</Filter>
+    </ClCompile>
+    <ClCompile Include="1799.cpp">
+      <Filter>Gori Problems\21_2_6</Filter>
+    </ClCompile>
+    <ClCompile Include="15976.cpp">
+      <Filter>Gori Problems\21_2_6</Filter>
+    </ClCompile>
+    <ClCompile Include="23306.cpp">
+      <Filter>Gori Problems\21_2_6</Filter>
+    </ClCompile>
+    <ClCompile Include="23038.cpp">
+      <Filter>Gori Problems\21_2_6</Filter>
+    </ClCompile>
+    <ClCompile Include="23348.cpp">
+      <Filter>Gori Problems\21_2_6</Filter>
+    </ClCompile>
+    <ClCompile Include="16236.cpp">
+      <Filter>Gori Problems\21_2_7</Filter>
+    </ClCompile>
+    <ClCompile Include="17144.cpp">
+      <Filter>Gori Problems\21_2_7</Filter>
+    </ClCompile>
+    <ClCompile Include="16928.cpp">
+      <Filter>Gori Problems\21_2_7</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
