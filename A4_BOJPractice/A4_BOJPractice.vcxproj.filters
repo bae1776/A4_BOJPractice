@@ -292,6 +292,30 @@
     <Filter Include="Gori Problems\22_1_3">
       <UniqueIdentifier>{1d743892-3fdb-444b-aa81-8cb13e7a6afa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Gori Problems\22_1_4">
+      <UniqueIdentifier>{1887c6b4-d275-46c8-9c1a-d2eb352e4743}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_1_5">
+      <UniqueIdentifier>{9b02945d-e4f5-4c6e-a7a2-f3aa5b50923a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_1_6">
+      <UniqueIdentifier>{79012391-1d98-4101-817f-4f33971820a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_1_7">
+      <UniqueIdentifier>{e19435f5-c356-4ecf-9135-01e5aff9a5ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_W_1%28Boardgame Cup%29">
+      <UniqueIdentifier>{61fd03a4-e045-481d-9f7b-b4deb8e25978}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_W_2%28SinchonWCamp 2021%29">
+      <UniqueIdentifier>{084b6208-139f-49b0-a1c6-8c502203677f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_W_3%28SciOI22%29">
+      <UniqueIdentifier>{65e39a15-d63a-4643-af4d-d07fe6f94b83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_W_5%28K2022Div2%29">
+      <UniqueIdentifier>{a87eaee1-6394-4711-b07f-aa6d25abd551}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1008.c">
@@ -2009,6 +2033,111 @@
     </ClCompile>
     <ClCompile Include="6270.cpp">
       <Filter>BOJ Source File\0. Default/Challenger</Filter>
+    </ClCompile>
+    <ClCompile Include="1062.cpp">
+      <Filter>Gori Problems\22_1_4</Filter>
+    </ClCompile>
+    <ClCompile Include="1202.cpp">
+      <Filter>Gori Problems\22_1_4</Filter>
+    </ClCompile>
+    <ClCompile Include="1414.cpp">
+      <Filter>Gori Problems\22_1_4</Filter>
+    </ClCompile>
+    <ClCompile Include="1480.cpp">
+      <Filter>Gori Problems\22_1_4</Filter>
+    </ClCompile>
+    <ClCompile Include="1735.cpp">
+      <Filter>Gori Problems\22_1_4</Filter>
+    </ClCompile>
+    <ClCompile Include="2075.cpp">
+      <Filter>Gori Problems\22_1_4</Filter>
+    </ClCompile>
+    <ClCompile Include="2104.cpp">
+      <Filter>Gori Problems\22_1_5</Filter>
+    </ClCompile>
+    <ClCompile Include="1998.cpp">
+      <Filter>Gori Problems\22_1_5</Filter>
+    </ClCompile>
+    <ClCompile Include="1493.cpp">
+      <Filter>Gori Problems\22_1_5</Filter>
+    </ClCompile>
+    <ClCompile Include="2374.cpp">
+      <Filter>Gori Problems\22_1_5</Filter>
+    </ClCompile>
+    <ClCompile Include="6597.cpp">
+      <Filter>Gori Problems\22_1_5</Filter>
+    </ClCompile>
+    <ClCompile Include="2309.cpp">
+      <Filter>Gori Problems\22_1_5</Filter>
+    </ClCompile>
+    <ClCompile Include="20129.cpp">
+      <Filter>Gori Problems\22_1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="15901.cpp">
+      <Filter>Gori Problems\22_1_7</Filter>
+    </ClCompile>
+    <ClCompile Include="15899.cpp">
+      <Filter>Gori Problems\22_1_7</Filter>
+    </ClCompile>
+    <ClCompile Include="15898.cpp">
+      <Filter>Gori Problems\22_1_7</Filter>
+    </ClCompile>
+    <ClCompile Include="15897.cpp">
+      <Filter>Gori Problems\22_1_7</Filter>
+    </ClCompile>
+    <ClCompile Include="15900.cpp">
+      <Filter>Gori Problems\22_1_7</Filter>
+    </ClCompile>
+    <ClCompile Include="15904.cpp">
+      <Filter>Gori Problems\22_1_7</Filter>
+    </ClCompile>
+    <ClCompile Include="15894.cpp">
+      <Filter>Gori Problems\22_1_7</Filter>
+    </ClCompile>
+    <ClCompile Include="27162.cpp">
+      <Filter>Gori Problems\22_W_1%28Boardgame Cup%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27165.cpp">
+      <Filter>Gori Problems\22_W_1%28Boardgame Cup%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27163(unso).cpp">
+      <Filter>Gori Problems\22_W_1%28Boardgame Cup%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27161.cpp">
+      <Filter>Gori Problems\22_W_1%28Boardgame Cup%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27160.cpp">
+      <Filter>Gori Problems\22_W_1%28Boardgame Cup%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27159.cpp">
+      <Filter>Gori Problems\22_W_1%28Boardgame Cup%29</Filter>
+    </ClCompile>
+    <ClCompile Include="20930.cpp">
+      <Filter>Gori Problems\22_W_2%28SinchonWCamp 2021%29</Filter>
+    </ClCompile>
+    <ClCompile Include="20928.cpp">
+      <Filter>Gori Problems\22_W_2%28SinchonWCamp 2021%29</Filter>
+    </ClCompile>
+    <ClCompile Include="20921.cpp">
+      <Filter>Gori Problems\22_W_2%28SinchonWCamp 2021%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27087.cpp">
+      <Filter>Gori Problems\22_W_3%28SciOI22%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27085.cpp">
+      <Filter>Gori Problems\22_W_3%28SciOI22%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27084.cpp">
+      <Filter>Gori Problems\22_W_3%28SciOI22%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27377.cpp">
+      <Filter>Gori Problems\22_W_5%28K2022Div2%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27376.cpp">
+      <Filter>Gori Problems\22_W_5%28K2022Div2%29</Filter>
+    </ClCompile>
+    <ClCompile Include="27375.cpp">
+      <Filter>Gori Problems\22_W_5%28K2022Div2%29</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
