@@ -316,6 +316,18 @@
     <Filter Include="Gori Problems\22_W_5%28K2022Div2%29">
       <UniqueIdentifier>{a87eaee1-6394-4711-b07f-aa6d25abd551}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Gori Problems\22_1_8">
+      <UniqueIdentifier>{dde78add-da32-4439-9850-1f6a5ac048c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_1_9">
+      <UniqueIdentifier>{e460f5ee-b335-4daa-bf8c-c0d396781704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_1_10">
+      <UniqueIdentifier>{121ab683-c852-4aa5-ad91-1410f4788f9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gori Problems\22_1_11">
+      <UniqueIdentifier>{79b31c39-f265-47d8-b579-19b8b61fcbb6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1008.c">
@@ -2138,6 +2150,93 @@
     </ClCompile>
     <ClCompile Include="27375.cpp">
       <Filter>Gori Problems\22_W_5%28K2022Div2%29</Filter>
+    </ClCompile>
+    <ClCompile Include="12844.cpp">
+      <Filter>Gori Problems\22_1_8</Filter>
+    </ClCompile>
+    <ClCompile Include="1395.cpp">
+      <Filter>Gori Problems\22_1_8</Filter>
+    </ClCompile>
+    <ClCompile Include="15892.cpp">
+      <Filter>Gori Problems\22_1_8</Filter>
+    </ClCompile>
+    <ClCompile Include="2188.cpp">
+      <Filter>Gori Problems\22_1_8</Filter>
+    </ClCompile>
+    <ClCompile Include="15938.cpp">
+      <Filter>Gori Problems\22_1_8</Filter>
+    </ClCompile>
+    <ClCompile Include="6086.cpp">
+      <Filter>Gori Problems\22_1_8</Filter>
+    </ClCompile>
+    <ClCompile Include="2316.cpp">
+      <Filter>Gori Problems\22_1_9</Filter>
+    </ClCompile>
+    <ClCompile Include="3653.cpp">
+      <Filter>Gori Problems\22_1_9</Filter>
+    </ClCompile>
+    <ClCompile Include="11438.cpp">
+      <Filter>Gori Problems\22_1_9</Filter>
+    </ClCompile>
+    <ClCompile Include="2305.cpp">
+      <Filter>Gori Problems\22_1_9</Filter>
+    </ClCompile>
+    <ClCompile Include="2672.cpp">
+      <Filter>Gori Problems\22_1_9</Filter>
+    </ClCompile>
+    <ClCompile Include="2138.cpp">
+      <Filter>Gori Problems\22_1_9</Filter>
+    </ClCompile>
+    <ClCompile Include="2875.cpp">
+      <Filter>Gori Problems\22_1_9</Filter>
+    </ClCompile>
+    <ClCompile Include="1067.cpp">
+      <Filter>Gori Problems\22_1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="3033.cpp">
+      <Filter>Gori Problems\22_1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="1637.cpp">
+      <Filter>Gori Problems\22_1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="17137.cpp">
+      <Filter>Gori Problems\22_1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="1509.cpp">
+      <Filter>Gori Problems\22_1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="1083.cpp">
+      <Filter>Gori Problems\22_1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="1790.cpp">
+      <Filter>Gori Problems\22_1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="1074.cpp">
+      <Filter>Gori Problems\22_1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="11967.cpp">
+      <Filter>Gori Problems\22_1_11</Filter>
+    </ClCompile>
+    <ClCompile Include="1797.cpp">
+      <Filter>Gori Problems\22_1_11</Filter>
+    </ClCompile>
+    <ClCompile Include="5859.cpp">
+      <Filter>Gori Problems\22_1_11</Filter>
+    </ClCompile>
+    <ClCompile Include="1005.cpp">
+      <Filter>Gori Problems\22_1_11</Filter>
+    </ClCompile>
+    <ClCompile Include="2252.cpp">
+      <Filter>Gori Problems\22_1_11</Filter>
+    </ClCompile>
+    <ClCompile Include="2137.cpp">
+      <Filter>Gori Problems\22_1_11</Filter>
+    </ClCompile>
+    <ClCompile Include="6068.cpp">
+      <Filter>Gori Problems\22_1_11</Filter>
+    </ClCompile>
+    <ClCompile Include="14567.cpp">
+      <Filter>Gori Problems\22_1_11</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
