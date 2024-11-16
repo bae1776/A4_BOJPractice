@@ -19,9 +19,9 @@
 #include <algorithm>
 using namespace std;
 
-array<int, 32> DP = {0, 1,}; //DP[i] = 0 ~ 2^i - 1까지의 max(J)이며, 이는 점화식 DP[i + 1] = DP[i] + i를 만족시킨다.
-array<int, 32> twoPow{0, 1,}; //twoPow[i] = 2^i - 1; (-> i번 점프하면 twoPow[i]칸 만큼 전진한다)
-int maxJump(const int& a, const int& b); 
+array<int, 32> DP = { 0, 1, }; //DP[i] = 0 ~ 2^i - 1까지의 max(J)이며, 이는 점화식 DP[i + 1] = DP[i] + i를 만족시킨다.
+array<int, 32> twoPow{0, 1, }; //twoPow[i] = 2^i - 1; (-> i번 점프하면 twoPow[i]칸 만큼 전진한다)
+int maxJump(const int& a, const int& b);
 
 int main(void)
 {
@@ -32,7 +32,7 @@ int main(void)
 	for (int i = 2; i < 32; i++)
 	{
 		DP[i] = DP[i - 1] + i - 1;
-		twoPow[i] = (twoPow[i-1] << 1) + 1;
+		twoPow[i] = (twoPow[i - 1] << 1) + 1;
 	}
 
 	int count;
@@ -57,9 +57,12 @@ int maxJump(const int& a, const int& b)
 	if (left == right)
 	{
 		return left + maxJump(a - twoPow[left], b - twoPow[left]);
-	} else {
-		left = right - 1;
-		return max(left + DP[left], right + maxJump(0, b - twoPow[right]));
+	}
+	else if (left == right - 1) {
+		return max(left + maxJump(a - twoPow[left], twoPow[left]), right + maxJump(0, b - twoPow[right]));
+	}
+	else {
+		return max(DP[right], right + maxJump(0, b - twoPow[right]));
 	}
 
 	/* Example
@@ -69,11 +72,17 @@ int maxJump(const int& a, const int& b)
 	maxJump(63, 145) 에 대하여,
 	left = 7(upper_bound(63)) - 1 = 6, right = 7이다.
 	조건 분기에 따라
-	maxJump(63, 145) = max(6 + DP[6], 7 + maxJump(0, 18))
-	이때 max의 왼쪽은 개구리가 6번(63칸) 먼저 뛰고, 점프해야할 길이 [0, 63]일때 최대 점프횟수 (=DP[6])
-	    max의 오른쪽은 개구리가 7번(127칸) 먼저 뛰고, 점프해야할 길이 [0, 18]일때 최대 점프 횟수 (다시 재귀)
+	maxJump(63, 145) = max(6 + maxJump(63 - 63, 63), 7 + maxJump(0, 18))
+	이때 max의 왼쪽은 개구리가 6번(63칸) 먼저 뛰고, 점프해야할 길이 [0, 0]일때 최대 점프횟수 (=DP[6])
+		max의 오른쪽은 개구리가 7번(127칸) 먼저 뛰고, 점프해야할 길이 [0, 18]일때 최대 점프 횟수 (다시 재귀)
 
 	재귀 종료 조건은 b <= 2일때로, maxJump(0, 0) = 0, maxJump(?, 1) = 1, maxJump(?, 2) = 2는 자명하기 때문이다.
-	
+
+	주의해야할 반례
+	1
+	14 18
+
+	정해는 6이다.
+
 	*/
 }
