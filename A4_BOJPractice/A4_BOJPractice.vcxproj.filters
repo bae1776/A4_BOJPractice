@@ -31,51 +31,6 @@
     <Filter Include="Gori Problems\문제집6. 그래프 1">
       <UniqueIdentifier>{baa04b9b-f7b1-4793-97da-a7cfe5cadd41}</UniqueIdentifier>
     </Filter>
-    <Filter Include="BOJ Source File\8. 기본 수학 1">
-      <UniqueIdentifier>{fbbd0b95-d8dd-46c1-9de0-26e15277089d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\9. 기본 수학 2">
-      <UniqueIdentifier>{5f35161e-c40b-453c-96ac-31c053cd109e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\10. 재귀">
-      <UniqueIdentifier>{1c83ddd2-e480-485f-9ed0-018d7cd4bab2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\11. 브루트 포스">
-      <UniqueIdentifier>{97048ecb-2fd1-42f9-8242-291057285659}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\12. 정렬">
-      <UniqueIdentifier>{76bb6244-69ae-4d18-8f00-78952e927d25}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\13. 집합과 맵 %28수정 예정%29">
-      <UniqueIdentifier>{31663a5f-3926-4b9d-a487-b04234e4760a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\14. 백트래킹">
-      <UniqueIdentifier>{cb0f532b-e303-4827-89d5-938c62845c7d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\15. 동적 계획법 1">
-      <UniqueIdentifier>{241266ae-7c84-4af8-80d1-e8639993008e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\16. 그리디 알고리즘">
-      <UniqueIdentifier>{c6791652-cefe-4a4c-8c81-87b16697f7c3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\17. 정수론 및 조합론">
-      <UniqueIdentifier>{73cab9fb-8e17-462d-84ab-35f6f2e7659c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\18. 스택">
-      <UniqueIdentifier>{69ad5cee-ef7a-4759-89fa-9d18b81867cc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\19. 큐, 덱">
-      <UniqueIdentifier>{07d33f3f-fcb2-40d9-b0cf-97aa4622df0b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\20. 분할 정복">
-      <UniqueIdentifier>{41a6cc82-1c7b-4252-8472-3a0d91bdc676}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\21. 이분 탐색">
-      <UniqueIdentifier>{8ac84cd3-e4f1-4bce-8541-74058af40e88}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\22. 우선순위 큐">
-      <UniqueIdentifier>{536bd328-172f-43a3-ab29-7b0d96713479}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Gori Problems\18 Goricon">
       <UniqueIdentifier>{7f744eae-5c59-441c-b498-2044a881703c}</UniqueIdentifier>
     </Filter>
@@ -85,65 +40,14 @@
     <Filter Include="Gori Problems\20 Goricon">
       <UniqueIdentifier>{fa0ebf90-e296-46e4-9d3c-59e8638b98f2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="BOJ Source File\23. 동적 계획법 2">
-      <UniqueIdentifier>{ee03f14e-c271-40f5-85c1-9f015b397a6c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\25. 최단 경로">
-      <UniqueIdentifier>{6d16a281-4bbd-4fca-8826-701bb8ae5261}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\24. DFS와 BFS">
-      <UniqueIdentifier>{a2e0682a-0a36-42e4-ba8d-221a522a7fc7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\0. Default/Challenger\Bronze Killer">
-      <UniqueIdentifier>{5bdc780c-5845-4c9d-ae8e-38a5e42624a8}</UniqueIdentifier>
-    </Filter>
     <Filter Include="BOJ Source File\0. Default/Challenger\Star Dot">
       <UniqueIdentifier>{49bfacd1-a28a-44fb-b67f-86f57a3fbee8}</UniqueIdentifier>
     </Filter>
     <Filter Include="BOJ Source File\0. Default/Challenger\Pibbonachi">
       <UniqueIdentifier>{a6e06007-57b3-49a2-b035-c276731b4d12}</UniqueIdentifier>
     </Filter>
-    <Filter Include="BOJ Source File\26. 투 포인터">
-      <UniqueIdentifier>{40fa80f0-cd2a-43dd-81a9-80d79f8f4f63}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\27. DP와 최단거리 역추적">
-      <UniqueIdentifier>{253a9132-d853-4dc3-b729-4a7d2fc2e915}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\28. 트리">
-      <UniqueIdentifier>{a6840a11-b124-4055-883a-df60cc3d53ee}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\30. 최소 신장 트리">
-      <UniqueIdentifier>{dd144e6e-e1c4-4283-8202-87e8c1fae9cc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\32. 기하">
-      <UniqueIdentifier>{ac938482-be17-4a2a-a4fb-353238d6ab4e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\33. 동적 계획법 3">
-      <UniqueIdentifier>{84705138-7768-4ab8-879a-243e541e71da}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\34. 문자열 알고리즘 1">
-      <UniqueIdentifier>{1821060f-02f0-4d01-8efc-4819e89b6f7b}</UniqueIdentifier>
-    </Filter>
     <Filter Include="BOJ Source File\SolvedAC Class %28장기 목표%29">
       <UniqueIdentifier>{d240fd61-8ed5-4b61-95c5-75f4dac34957}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\35. 위상 정렬">
-      <UniqueIdentifier>{2c83979d-f41b-4150-b56a-2ca3385f69e1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\36. 최소 공통 조상">
-      <UniqueIdentifier>{3b341181-2189-4412-9dcd-0adbbd774234}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\37. 강한 연결 요소">
-      <UniqueIdentifier>{8c285243-8e87-4e57-9e2b-08b18b9e91c4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\38. 세그먼트 트리">
-      <UniqueIdentifier>{11416218-752a-495b-8a44-cca1bedace6b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\29. 유니온 파인드">
-      <UniqueIdentifier>{2aa936e3-a6b3-4962-822d-99eade5db31d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BOJ Source File\31. 트리에서 동적 계획법 %282/4%29">
-      <UniqueIdentifier>{ce7a9ff4-1858-4d7b-9a55-5a4921b0df70}</UniqueIdentifier>
     </Filter>
     <Filter Include="Gori Problems\문제집9. 완전 탐색 1">
       <UniqueIdentifier>{2ea04835-dde6-4e7a-a79d-abfcf96283e1}</UniqueIdentifier>
@@ -325,14 +229,119 @@
     <Filter Include="BOJ Source File\6. 심화 1">
       <UniqueIdentifier>{12930f5a-c03b-4e46-b386-81848d0b3a73}</UniqueIdentifier>
     </Filter>
-    <Filter Include="BOJ Source File\7. 2차원 배열 %28절취선 ------%29">
-      <UniqueIdentifier>{571bb753-342a-4669-8e0a-a6b15cae25b5}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Gori Problems\문제집8. 트리 1 %28진행중%29">
       <UniqueIdentifier>{bea9413e-1195-4b49-ace5-099402ee59d8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Gori Problems\21_S_4">
       <UniqueIdentifier>{f08e4b37-df0c-4ad3-b76f-3c7207fab614}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\7. 2차원 배열">
+      <UniqueIdentifier>{571bb753-342a-4669-8e0a-a6b15cae25b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\8. 일반 수학 1">
+      <UniqueIdentifier>{fbbd0b95-d8dd-46c1-9de0-26e15277089d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\0. Default/Challenger\1_Bronze">
+      <UniqueIdentifier>{5bdc780c-5845-4c9d-ae8e-38a5e42624a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\0. Default/Challenger\2_Silver">
+      <UniqueIdentifier>{05a8efa6-8ce0-48e7-b3de-b3672f42f8aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\0. Default/Challenger\3_Gold">
+      <UniqueIdentifier>{d348cf82-249b-4d2f-a492-e7f200da38f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\0. Default/Challenger\4_Platinum">
+      <UniqueIdentifier>{ff81c0e8-f8da-4a24-99cb-ee1f3ecdd9d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\0. Default/Challenger\5_Diamond+">
+      <UniqueIdentifier>{d249d7a0-798e-4e3c-87be-819d684d301d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\9. 약수, 배수와 소수">
+      <UniqueIdentifier>{5f35161e-c40b-453c-96ac-31c053cd109e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\21. 재귀">
+      <UniqueIdentifier>{1c83ddd2-e480-485f-9ed0-018d7cd4bab2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\15. 약수, 배수와 소수 2">
+      <UniqueIdentifier>{1e39cf95-d815-462c-8b99-f128a9589986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\12. 브루트 포스">
+      <UniqueIdentifier>{97048ecb-2fd1-42f9-8242-291057285659}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\13. 정렬">
+      <UniqueIdentifier>{76bb6244-69ae-4d18-8f00-78952e927d25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\22. 백트래킹">
+      <UniqueIdentifier>{cb0f532b-e303-4827-89d5-938c62845c7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\10. 기하 : 직사각형과 삼각형">
+      <UniqueIdentifier>{ac938482-be17-4a2a-a4fb-353238d6ab4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\11. 시간 복잡도">
+      <UniqueIdentifier>{b7ccf378-7651-4dfe-8f25-cc035496ce26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\23. 동적 계획법 1">
+      <UniqueIdentifier>{241266ae-7c84-4af8-80d1-e8639993008e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\20. 심화 2">
+      <UniqueIdentifier>{2f8a0aa1-1b2f-41d8-bc56-e43929c47a8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\25. 그리디 알고리즘">
+      <UniqueIdentifier>{c6791652-cefe-4a4c-8c81-87b16697f7c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\16. 스택, 큐, 덱">
+      <UniqueIdentifier>{69ad5cee-ef7a-4759-89fa-9d18b81867cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\26. 분할 정복">
+      <UniqueIdentifier>{41a6cc82-1c7b-4252-8472-3a0d91bdc676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\27. 이분 탐색">
+      <UniqueIdentifier>{8ac84cd3-e4f1-4bce-8541-74058af40e88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\28. 우선순위 큐">
+      <UniqueIdentifier>{536bd328-172f-43a3-ab29-7b0d96713479}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\29. 동적 계획법 2">
+      <UniqueIdentifier>{ee03f14e-c271-40f5-85c1-9f015b397a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\32. 최단 경로">
+      <UniqueIdentifier>{6d16a281-4bbd-4fca-8826-701bb8ae5261}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\33. 투 포인터">
+      <UniqueIdentifier>{40fa80f0-cd2a-43dd-81a9-80d79f8f4f63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\34. DP와 최단거리 역추적">
+      <UniqueIdentifier>{253a9132-d853-4dc3-b729-4a7d2fc2e915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\35. 트리">
+      <UniqueIdentifier>{a6840a11-b124-4055-883a-df60cc3d53ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\36. 유니온 파인드">
+      <UniqueIdentifier>{2aa936e3-a6b3-4962-822d-99eade5db31d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\37. 최소 신장 트리">
+      <UniqueIdentifier>{dd144e6e-e1c4-4283-8202-87e8c1fae9cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\38. 트리에서 동적 계획법 %282/4%29">
+      <UniqueIdentifier>{ce7a9ff4-1858-4d7b-9a55-5a4921b0df70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\19. 조합론">
+      <UniqueIdentifier>{73cab9fb-8e17-462d-84ab-35f6f2e7659c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\24. 누적 합">
+      <UniqueIdentifier>{c439f9f3-812d-4134-ae9d-23399f87edaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\31. 그래프와 순회">
+      <UniqueIdentifier>{a2e0682a-0a36-42e4-ba8d-221a522a7fc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\30. 스택 2">
+      <UniqueIdentifier>{737cd044-3c7e-4473-a150-19da8130c7d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\17. ==== 절취선 ====">
+      <UniqueIdentifier>{7d4986df-8a8a-4a10-99b8-6e361df68372}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BOJ Source File\14. 집합과 맵">
+      <UniqueIdentifier>{31663a5f-3926-4b9d-a487-b04234e4760a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -362,15 +371,6 @@
     </ClCompile>
     <ClCompile Include="10998.c">
       <Filter>BOJ Source File\1. 입출력과 사칙연산</Filter>
-    </ClCompile>
-    <ClCompile Include="1475.c">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
-    <ClCompile Include="6064.c">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
-    <ClCompile Include="18111.c">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
     </ClCompile>
     <ClCompile Include="10869.c">
       <Filter>BOJ Source File\1. 입출력과 사칙연산</Filter>
@@ -444,323 +444,206 @@
     <ClCompile Include="5622.c">
       <Filter>BOJ Source File\5. 문자열</Filter>
     </ClCompile>
-    <ClCompile Include="1712.c">
-      <Filter>BOJ Source File\8. 기본 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="2839.c">
-      <Filter>BOJ Source File\8. 기본 수학 1</Filter>
-    </ClCompile>
     <ClCompile Include="2292.c">
-      <Filter>BOJ Source File\8. 기본 수학 1</Filter>
+      <Filter>BOJ Source File\8. 일반 수학 1</Filter>
     </ClCompile>
     <ClCompile Include="1193.c">
-      <Filter>BOJ Source File\8. 기본 수학 1</Filter>
+      <Filter>BOJ Source File\8. 일반 수학 1</Filter>
     </ClCompile>
     <ClCompile Include="2869.c">
-      <Filter>BOJ Source File\8. 기본 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="10250.c">
-      <Filter>BOJ Source File\8. 기본 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="2775.c">
-      <Filter>BOJ Source File\8. 기본 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="1011.c">
-      <Filter>BOJ Source File\8. 기본 수학 1</Filter>
+      <Filter>BOJ Source File\8. 일반 수학 1</Filter>
     </ClCompile>
     <ClCompile Include="1978.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
+      <Filter>BOJ Source File\9. 약수, 배수와 소수</Filter>
     </ClCompile>
     <ClCompile Include="2581.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1929.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
-    </ClCompile>
-    <ClCompile Include="4948.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
-    </ClCompile>
-    <ClCompile Include="9020.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1085.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
-    </ClCompile>
-    <ClCompile Include="3009.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
-    </ClCompile>
-    <ClCompile Include="4153.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
-    </ClCompile>
-    <ClCompile Include="3053.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
-    </ClCompile>
-    <ClCompile Include="1002.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
-    </ClCompile>
-    <ClCompile Include="10872.c">
-      <Filter>BOJ Source File\10. 재귀</Filter>
+      <Filter>BOJ Source File\9. 약수, 배수와 소수</Filter>
     </ClCompile>
     <ClCompile Include="10870.c">
-      <Filter>BOJ Source File\10. 재귀</Filter>
+      <Filter>BOJ Source File\21. 재귀</Filter>
     </ClCompile>
     <ClCompile Include="11729.c">
-      <Filter>BOJ Source File\10. 재귀</Filter>
+      <Filter>BOJ Source File\21. 재귀</Filter>
     </ClCompile>
     <ClCompile Include="2447.c">
-      <Filter>BOJ Source File\10. 재귀</Filter>
+      <Filter>BOJ Source File\21. 재귀</Filter>
     </ClCompile>
     <ClCompile Include="2798.c">
-      <Filter>BOJ Source File\11. 브루트 포스</Filter>
+      <Filter>BOJ Source File\12. 브루트 포스</Filter>
     </ClCompile>
     <ClCompile Include="2231.c">
-      <Filter>BOJ Source File\11. 브루트 포스</Filter>
-    </ClCompile>
-    <ClCompile Include="7568.c">
-      <Filter>BOJ Source File\11. 브루트 포스</Filter>
+      <Filter>BOJ Source File\12. 브루트 포스</Filter>
     </ClCompile>
     <ClCompile Include="1018.c">
-      <Filter>BOJ Source File\11. 브루트 포스</Filter>
+      <Filter>BOJ Source File\12. 브루트 포스</Filter>
     </ClCompile>
     <ClCompile Include="1436.c">
-      <Filter>BOJ Source File\11. 브루트 포스</Filter>
+      <Filter>BOJ Source File\12. 브루트 포스</Filter>
     </ClCompile>
     <ClCompile Include="2750.c">
-      <Filter>BOJ Source File\12. 정렬</Filter>
+      <Filter>BOJ Source File\13. 정렬</Filter>
     </ClCompile>
     <ClCompile Include="2751.c">
-      <Filter>BOJ Source File\12. 정렬</Filter>
+      <Filter>BOJ Source File\13. 정렬</Filter>
     </ClCompile>
     <ClCompile Include="10989.c">
-      <Filter>BOJ Source File\12. 정렬</Filter>
-    </ClCompile>
-    <ClCompile Include="2108.c">
-      <Filter>BOJ Source File\12. 정렬</Filter>
+      <Filter>BOJ Source File\13. 정렬</Filter>
     </ClCompile>
     <ClCompile Include="1427.c">
-      <Filter>BOJ Source File\12. 정렬</Filter>
+      <Filter>BOJ Source File\13. 정렬</Filter>
     </ClCompile>
     <ClCompile Include="11650.c">
-      <Filter>BOJ Source File\12. 정렬</Filter>
+      <Filter>BOJ Source File\13. 정렬</Filter>
     </ClCompile>
     <ClCompile Include="11651.c">
-      <Filter>BOJ Source File\12. 정렬</Filter>
+      <Filter>BOJ Source File\13. 정렬</Filter>
     </ClCompile>
     <ClCompile Include="10814.c">
-      <Filter>BOJ Source File\12. 정렬</Filter>
+      <Filter>BOJ Source File\13. 정렬</Filter>
     </ClCompile>
     <ClCompile Include="1181.c">
-      <Filter>BOJ Source File\12. 정렬</Filter>
+      <Filter>BOJ Source File\13. 정렬</Filter>
     </ClCompile>
     <ClCompile Include="15649.c">
-      <Filter>BOJ Source File\14. 백트래킹</Filter>
+      <Filter>BOJ Source File\22. 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="15650.c">
-      <Filter>BOJ Source File\14. 백트래킹</Filter>
+      <Filter>BOJ Source File\22. 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="15651.c">
-      <Filter>BOJ Source File\14. 백트래킹</Filter>
+      <Filter>BOJ Source File\22. 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="15652.c">
-      <Filter>BOJ Source File\14. 백트래킹</Filter>
+      <Filter>BOJ Source File\22. 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="14888.c">
-      <Filter>BOJ Source File\14. 백트래킹</Filter>
+      <Filter>BOJ Source File\22. 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="14889.c">
-      <Filter>BOJ Source File\14. 백트래킹</Filter>
+      <Filter>BOJ Source File\22. 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="2580.c">
-      <Filter>BOJ Source File\14. 백트래킹</Filter>
+      <Filter>BOJ Source File\22. 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="9663.c">
-      <Filter>BOJ Source File\14. 백트래킹</Filter>
-    </ClCompile>
-    <ClCompile Include="1003.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\22. 백트래킹</Filter>
     </ClCompile>
     <ClCompile Include="1904.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="9461.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="1149.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="1932.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="2579.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="1463.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="10844.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="2156.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="11053.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="11054.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="2565.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="9251.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="1912.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="12865.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="11047.c">
-      <Filter>BOJ Source File\16. 그리디 알고리즘</Filter>
+      <Filter>BOJ Source File\25. 그리디 알고리즘</Filter>
     </ClCompile>
     <ClCompile Include="1931.c">
-      <Filter>BOJ Source File\16. 그리디 알고리즘</Filter>
+      <Filter>BOJ Source File\25. 그리디 알고리즘</Filter>
     </ClCompile>
     <ClCompile Include="11399.c">
-      <Filter>BOJ Source File\16. 그리디 알고리즘</Filter>
+      <Filter>BOJ Source File\25. 그리디 알고리즘</Filter>
     </ClCompile>
     <ClCompile Include="1541.c">
-      <Filter>BOJ Source File\16. 그리디 알고리즘</Filter>
-    </ClCompile>
-    <ClCompile Include="5086.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="1037.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="2609.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="2981.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="3036.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="11050.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="11051.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="9375.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="1676.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="2004.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="10828.c">
-      <Filter>BOJ Source File\18. 스택</Filter>
+      <Filter>BOJ Source File\25. 그리디 알고리즘</Filter>
     </ClCompile>
     <ClCompile Include="10773.c">
-      <Filter>BOJ Source File\18. 스택</Filter>
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
     </ClCompile>
     <ClCompile Include="9012.c">
-      <Filter>BOJ Source File\18. 스택</Filter>
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
     </ClCompile>
     <ClCompile Include="4949.c">
-      <Filter>BOJ Source File\18. 스택</Filter>
-    </ClCompile>
-    <ClCompile Include="1874.c">
-      <Filter>BOJ Source File\18. 스택</Filter>
-    </ClCompile>
-    <ClCompile Include="18258.c">
-      <Filter>BOJ Source File\19. 큐, 덱</Filter>
-    </ClCompile>
-    <ClCompile Include="11866.c">
-      <Filter>BOJ Source File\19. 큐, 덱</Filter>
-    </ClCompile>
-    <ClCompile Include="2164.c">
-      <Filter>BOJ Source File\19. 큐, 덱</Filter>
-    </ClCompile>
-    <ClCompile Include="1966.c">
-      <Filter>BOJ Source File\19. 큐, 덱</Filter>
-    </ClCompile>
-    <ClCompile Include="10866.c">
-      <Filter>BOJ Source File\19. 큐, 덱</Filter>
-    </ClCompile>
-    <ClCompile Include="1021.c">
-      <Filter>BOJ Source File\19. 큐, 덱</Filter>
-    </ClCompile>
-    <ClCompile Include="5430.c">
-      <Filter>BOJ Source File\19. 큐, 덱</Filter>
-    </ClCompile>
-    <ClCompile Include="2261.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
     </ClCompile>
     <ClCompile Include="6549.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\26. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="10830.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\26. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="2740.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\26. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="11401.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\26. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="1629.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\26. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="1780.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\26. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="1992.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\26. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="2630.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\26. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="1920.c">
-      <Filter>BOJ Source File\21. 이분 탐색</Filter>
-    </ClCompile>
-    <ClCompile Include="10816.c">
-      <Filter>BOJ Source File\21. 이분 탐색</Filter>
+      <Filter>BOJ Source File\27. 이분 탐색</Filter>
     </ClCompile>
     <ClCompile Include="1654.c">
-      <Filter>BOJ Source File\21. 이분 탐색</Filter>
+      <Filter>BOJ Source File\27. 이분 탐색</Filter>
     </ClCompile>
     <ClCompile Include="2805.c">
-      <Filter>BOJ Source File\21. 이분 탐색</Filter>
+      <Filter>BOJ Source File\27. 이분 탐색</Filter>
     </ClCompile>
     <ClCompile Include="2110.c">
-      <Filter>BOJ Source File\21. 이분 탐색</Filter>
+      <Filter>BOJ Source File\27. 이분 탐색</Filter>
     </ClCompile>
     <ClCompile Include="1300.c">
-      <Filter>BOJ Source File\21. 이분 탐색</Filter>
+      <Filter>BOJ Source File\27. 이분 탐색</Filter>
     </ClCompile>
     <ClCompile Include="12015.c">
-      <Filter>BOJ Source File\21. 이분 탐색</Filter>
+      <Filter>BOJ Source File\27. 이분 탐색</Filter>
     </ClCompile>
     <ClCompile Include="11279.c">
-      <Filter>BOJ Source File\22. 우선순위 큐</Filter>
+      <Filter>BOJ Source File\28. 우선순위 큐</Filter>
     </ClCompile>
     <ClCompile Include="1927.c">
-      <Filter>BOJ Source File\22. 우선순위 큐</Filter>
+      <Filter>BOJ Source File\28. 우선순위 큐</Filter>
     </ClCompile>
     <ClCompile Include="11286.c">
-      <Filter>BOJ Source File\22. 우선순위 큐</Filter>
-    </ClCompile>
-    <ClCompile Include="1655.c">
-      <Filter>BOJ Source File\22. 우선순위 큐</Filter>
+      <Filter>BOJ Source File\28. 우선순위 큐</Filter>
     </ClCompile>
     <ClCompile Include="1260.c">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="2558.c">
       <Filter>Gori Problems\문제집1. 알고리즘과 입출력</Filter>
@@ -781,9 +664,6 @@
       <Filter>Gori Problems\문제집1. 알고리즘과 입출력</Filter>
     </ClCompile>
     <ClCompile Include="10799.c">
-      <Filter>Gori Problems\문제집2. 자료구조 1</Filter>
-    </ClCompile>
-    <ClCompile Include="10845.c">
       <Filter>Gori Problems\문제집2. 자료구조 1</Filter>
     </ClCompile>
     <ClCompile Include="10808.c">
@@ -810,16 +690,10 @@
     <ClCompile Include="11652.c">
       <Filter>Gori Problems\문제집3. 정렬</Filter>
     </ClCompile>
-    <ClCompile Include="11005.c">
-      <Filter>Gori Problems\문제집4. 수학 1</Filter>
-    </ClCompile>
     <ClCompile Include="9613.c">
       <Filter>Gori Problems\문제집4. 수학 1</Filter>
     </ClCompile>
     <ClCompile Include="1850.c">
-      <Filter>Gori Problems\문제집4. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="2745.c">
       <Filter>Gori Problems\문제집4. 수학 1</Filter>
     </ClCompile>
     <ClCompile Include="1373.c">
@@ -878,9 +752,6 @@
     </ClCompile>
     <ClCompile Include="11724.c">
       <Filter>Gori Problems\문제집6. 그래프 1</Filter>
-    </ClCompile>
-    <ClCompile Include="13159%28hard unso%29.c">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
     </ClCompile>
     <ClCompile Include="2557.cpp">
       <Filter>Gori Problems\20_1_1. PS 기초</Filter>
@@ -1110,9 +981,6 @@
     <ClCompile Include="4485.cpp">
       <Filter>Gori Problems\20_2_2. 다익스트라</Filter>
     </ClCompile>
-    <ClCompile Include="16395.cpp">
-      <Filter>Gori Problems\20_2_3. 이항 계수</Filter>
-    </ClCompile>
     <ClCompile Include="13977.cpp">
       <Filter>Gori Problems\20_2_3. 이항 계수</Filter>
     </ClCompile>
@@ -1167,9 +1035,6 @@
     <ClCompile Include="12851.cpp">
       <Filter>Gori Problems\20_W_4</Filter>
     </ClCompile>
-    <ClCompile Include="13549.cpp">
-      <Filter>Gori Problems\20_W_4</Filter>
-    </ClCompile>
     <ClCompile Include="10997.cpp">
       <Filter>BOJ Source File\0. Default/Challenger\Star Dot</Filter>
     </ClCompile>
@@ -1200,62 +1065,50 @@
     <ClCompile Include="14681.c">
       <Filter>BOJ Source File\2. 조건문</Filter>
     </ClCompile>
-    <ClCompile Include="10757.c">
-      <Filter>BOJ Source File\8. 기본 수학 1</Filter>
-    </ClCompile>
     <ClCompile Include="11653.c">
-      <Filter>BOJ Source File\9. 기본 수학 2</Filter>
+      <Filter>BOJ Source File\9. 약수, 배수와 소수</Filter>
     </ClCompile>
     <ClCompile Include="18870.cpp">
-      <Filter>BOJ Source File\12. 정렬</Filter>
+      <Filter>BOJ Source File\13. 정렬</Filter>
     </ClCompile>
     <ClCompile Include="9184.c">
-      <Filter>BOJ Source File\15. 동적 계획법 1</Filter>
+      <Filter>BOJ Source File\23. 동적 계획법 1</Filter>
     </ClCompile>
     <ClCompile Include="13305.cpp">
-      <Filter>BOJ Source File\16. 그리디 알고리즘</Filter>
-    </ClCompile>
-    <ClCompile Include="1934.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
+      <Filter>BOJ Source File\25. 그리디 알고리즘</Filter>
     </ClCompile>
     <ClCompile Include="1010.c">
-      <Filter>BOJ Source File\17. 정수론 및 조합론</Filter>
-    </ClCompile>
-    <ClCompile Include="17298.cpp">
-      <Filter>BOJ Source File\18. 스택</Filter>
+      <Filter>BOJ Source File\19. 조합론</Filter>
     </ClCompile>
     <ClCompile Include="11444.c">
-      <Filter>BOJ Source File\20. 분할 정복</Filter>
+      <Filter>BOJ Source File\26. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="2606.cpp">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="2667.cpp">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="2178.cpp">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="7576.cpp">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="1697.cpp">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="2206.cpp">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="1707.c">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="1753.cpp">
-      <Filter>BOJ Source File\25. 최단 경로</Filter>
+      <Filter>BOJ Source File\32. 최단 경로</Filter>
     </ClCompile>
     <ClCompile Include="11404.cpp">
-      <Filter>BOJ Source File\25. 최단 경로</Filter>
-    </ClCompile>
-    <ClCompile Include="10217%28unso%29.cpp">
-      <Filter>BOJ Source File\25. 최단 경로</Filter>
+      <Filter>BOJ Source File\32. 최단 경로</Filter>
     </ClCompile>
     <ClCompile Include="20117.cpp">
       <Filter>Gori Problems\20 Goricon</Filter>
@@ -1360,67 +1213,64 @@
       <Filter>Gori Problems\20 Goricon</Filter>
     </ClCompile>
     <ClCompile Include="7579.cpp">
-      <Filter>BOJ Source File\23. 동적 계획법 2</Filter>
+      <Filter>BOJ Source File\29. 동적 계획법 2</Filter>
     </ClCompile>
     <ClCompile Include="2293.cpp">
-      <Filter>BOJ Source File\23. 동적 계획법 2</Filter>
+      <Filter>BOJ Source File\29. 동적 계획법 2</Filter>
     </ClCompile>
     <ClCompile Include="2629.cpp">
-      <Filter>BOJ Source File\23. 동적 계획법 2</Filter>
+      <Filter>BOJ Source File\29. 동적 계획법 2</Filter>
     </ClCompile>
     <ClCompile Include="1520.cpp">
-      <Filter>BOJ Source File\23. 동적 계획법 2</Filter>
-    </ClCompile>
-    <ClCompile Include="10942.cpp">
-      <Filter>BOJ Source File\23. 동적 계획법 2</Filter>
+      <Filter>BOJ Source File\29. 동적 계획법 2</Filter>
     </ClCompile>
     <ClCompile Include="11049.cpp">
-      <Filter>BOJ Source File\23. 동적 계획법 2</Filter>
+      <Filter>BOJ Source File\29. 동적 계획법 2</Filter>
     </ClCompile>
     <ClCompile Include="11066.cpp">
-      <Filter>BOJ Source File\23. 동적 계획법 2</Filter>
+      <Filter>BOJ Source File\29. 동적 계획법 2</Filter>
     </ClCompile>
     <ClCompile Include="7562.cpp">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="7569.cpp">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="1956.cpp">
-      <Filter>BOJ Source File\25. 최단 경로</Filter>
+      <Filter>BOJ Source File\32. 최단 경로</Filter>
     </ClCompile>
     <ClCompile Include="11657.cpp">
-      <Filter>BOJ Source File\25. 최단 경로</Filter>
+      <Filter>BOJ Source File\32. 최단 경로</Filter>
     </ClCompile>
     <ClCompile Include="9370.cpp">
-      <Filter>BOJ Source File\25. 최단 경로</Filter>
+      <Filter>BOJ Source File\32. 최단 경로</Filter>
     </ClCompile>
     <ClCompile Include="1504.cpp">
-      <Filter>BOJ Source File\25. 최단 경로</Filter>
+      <Filter>BOJ Source File\32. 최단 경로</Filter>
     </ClCompile>
     <ClCompile Include="1806.cpp">
-      <Filter>BOJ Source File\26. 투 포인터</Filter>
+      <Filter>BOJ Source File\33. 투 포인터</Filter>
     </ClCompile>
     <ClCompile Include="2470.cpp">
-      <Filter>BOJ Source File\26. 투 포인터</Filter>
+      <Filter>BOJ Source File\33. 투 포인터</Filter>
     </ClCompile>
     <ClCompile Include="3273.cpp">
-      <Filter>BOJ Source File\26. 투 포인터</Filter>
+      <Filter>BOJ Source File\33. 투 포인터</Filter>
     </ClCompile>
     <ClCompile Include="13913.cpp">
-      <Filter>BOJ Source File\27. DP와 최단거리 역추적</Filter>
+      <Filter>BOJ Source File\34. DP와 최단거리 역추적</Filter>
     </ClCompile>
     <ClCompile Include="1076.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="1075.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="1009.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="1032.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="2748.c">
       <Filter>BOJ Source File\0. Default/Challenger\Pibbonachi</Filter>
@@ -1429,121 +1279,115 @@
       <Filter>BOJ Source File\0. Default/Challenger\Pibbonachi</Filter>
     </ClCompile>
     <ClCompile Include="2475.c">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="2920.c">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="5543.c">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="10039.c">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="10817.c">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="1450.cpp">
-      <Filter>BOJ Source File\26. 투 포인터</Filter>
+      <Filter>BOJ Source File\33. 투 포인터</Filter>
     </ClCompile>
     <ClCompile Include="1644.cpp">
-      <Filter>BOJ Source File\26. 투 포인터</Filter>
+      <Filter>BOJ Source File\33. 투 포인터</Filter>
     </ClCompile>
     <ClCompile Include="11780.cpp">
-      <Filter>BOJ Source File\27. DP와 최단거리 역추적</Filter>
+      <Filter>BOJ Source File\34. DP와 최단거리 역추적</Filter>
     </ClCompile>
     <ClCompile Include="11779.cpp">
-      <Filter>BOJ Source File\27. DP와 최단거리 역추적</Filter>
+      <Filter>BOJ Source File\34. DP와 최단거리 역추적</Filter>
     </ClCompile>
     <ClCompile Include="9019.cpp">
-      <Filter>BOJ Source File\27. DP와 최단거리 역추적</Filter>
+      <Filter>BOJ Source File\34. DP와 최단거리 역추적</Filter>
     </ClCompile>
     <ClCompile Include="2618.cpp">
-      <Filter>BOJ Source File\27. DP와 최단거리 역추적</Filter>
+      <Filter>BOJ Source File\34. DP와 최단거리 역추적</Filter>
     </ClCompile>
     <ClCompile Include="9252.cpp">
-      <Filter>BOJ Source File\27. DP와 최단거리 역추적</Filter>
+      <Filter>BOJ Source File\34. DP와 최단거리 역추적</Filter>
     </ClCompile>
     <ClCompile Include="14003.cpp">
-      <Filter>BOJ Source File\27. DP와 최단거리 역추적</Filter>
+      <Filter>BOJ Source File\34. DP와 최단거리 역추적</Filter>
     </ClCompile>
     <ClCompile Include="14002.cpp">
-      <Filter>BOJ Source File\27. DP와 최단거리 역추적</Filter>
+      <Filter>BOJ Source File\34. DP와 최단거리 역추적</Filter>
     </ClCompile>
     <ClCompile Include="12852.cpp">
-      <Filter>BOJ Source File\27. DP와 최단거리 역추적</Filter>
+      <Filter>BOJ Source File\34. DP와 최단거리 역추적</Filter>
     </ClCompile>
     <ClCompile Include="4803.cpp">
-      <Filter>BOJ Source File\28. 트리</Filter>
+      <Filter>BOJ Source File\35. 트리</Filter>
     </ClCompile>
     <ClCompile Include="5639.cpp">
-      <Filter>BOJ Source File\28. 트리</Filter>
+      <Filter>BOJ Source File\35. 트리</Filter>
     </ClCompile>
     <ClCompile Include="1991.cpp">
-      <Filter>BOJ Source File\28. 트리</Filter>
+      <Filter>BOJ Source File\35. 트리</Filter>
     </ClCompile>
     <ClCompile Include="2263.cpp">
-      <Filter>BOJ Source File\28. 트리</Filter>
+      <Filter>BOJ Source File\35. 트리</Filter>
     </ClCompile>
     <ClCompile Include="1967.cpp">
-      <Filter>BOJ Source File\28. 트리</Filter>
+      <Filter>BOJ Source File\35. 트리</Filter>
     </ClCompile>
     <ClCompile Include="1167.cpp">
-      <Filter>BOJ Source File\28. 트리</Filter>
+      <Filter>BOJ Source File\35. 트리</Filter>
     </ClCompile>
     <ClCompile Include="11725.cpp">
-      <Filter>BOJ Source File\28. 트리</Filter>
+      <Filter>BOJ Source File\35. 트리</Filter>
     </ClCompile>
     <ClCompile Include="4195.cpp">
-      <Filter>BOJ Source File\29. 유니온 파인드</Filter>
+      <Filter>BOJ Source File\36. 유니온 파인드</Filter>
     </ClCompile>
     <ClCompile Include="1976.cpp">
-      <Filter>BOJ Source File\29. 유니온 파인드</Filter>
+      <Filter>BOJ Source File\36. 유니온 파인드</Filter>
     </ClCompile>
     <ClCompile Include="1717.cpp">
-      <Filter>BOJ Source File\29. 유니온 파인드</Filter>
+      <Filter>BOJ Source File\36. 유니온 파인드</Filter>
     </ClCompile>
     <ClCompile Include="20040.cpp">
-      <Filter>BOJ Source File\29. 유니온 파인드</Filter>
+      <Filter>BOJ Source File\36. 유니온 파인드</Filter>
     </ClCompile>
     <ClCompile Include="4386.cpp">
-      <Filter>BOJ Source File\30. 최소 신장 트리</Filter>
+      <Filter>BOJ Source File\37. 최소 신장 트리</Filter>
     </ClCompile>
     <ClCompile Include="17472.cpp">
-      <Filter>BOJ Source File\30. 최소 신장 트리</Filter>
-    </ClCompile>
-    <ClCompile Include="2887.cpp">
-      <Filter>BOJ Source File\30. 최소 신장 트리</Filter>
+      <Filter>BOJ Source File\37. 최소 신장 트리</Filter>
     </ClCompile>
     <ClCompile Include="1197.cpp">
-      <Filter>BOJ Source File\30. 최소 신장 트리</Filter>
+      <Filter>BOJ Source File\37. 최소 신장 트리</Filter>
     </ClCompile>
     <ClCompile Include="1774.cpp">
-      <Filter>BOJ Source File\30. 최소 신장 트리</Filter>
+      <Filter>BOJ Source File\37. 최소 신장 트리</Filter>
     </ClCompile>
     <ClCompile Include="9372.cpp">
-      <Filter>BOJ Source File\30. 최소 신장 트리</Filter>
+      <Filter>BOJ Source File\37. 최소 신장 트리</Filter>
     </ClCompile>
     <ClCompile Include="2213.cpp">
-      <Filter>BOJ Source File\31. 트리에서 동적 계획법 %282/4%29</Filter>
+      <Filter>BOJ Source File\38. 트리에서 동적 계획법 %282/4%29</Filter>
     </ClCompile>
     <ClCompile Include="15681.cpp">
-      <Filter>BOJ Source File\31. 트리에서 동적 계획법 %282/4%29</Filter>
+      <Filter>BOJ Source File\38. 트리에서 동적 계획법 %282/4%29</Filter>
     </ClCompile>
     <ClCompile Include="1100.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="1145.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="1159.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="6021.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
-    </ClCompile>
-    <ClCompile Include="19585.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="1057.cpp">
       <Filter>Gori Problems\21_S_1</Filter>
@@ -1560,17 +1404,11 @@
     <ClCompile Include="2339.cpp">
       <Filter>Gori Problems\21_S_2</Filter>
     </ClCompile>
-    <ClCompile Include="10815.cpp">
-      <Filter>Gori Problems\문제집7. 분할 정복</Filter>
-    </ClCompile>
     <ClCompile Include="11728.cpp">
       <Filter>Gori Problems\문제집7. 분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="1377.cpp">
       <Filter>Gori Problems\문제집7. 분할 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="11659.cpp">
-      <Filter>Gori Problems\문제집9. 완전 탐색 1</Filter>
     </ClCompile>
     <ClCompile Include="1476.cpp">
       <Filter>Gori Problems\문제집9. 완전 탐색 1</Filter>
@@ -1662,9 +1500,6 @@
     <ClCompile Include="22343.cpp">
       <Filter>Gori Problems\21_2_4</Filter>
     </ClCompile>
-    <ClCompile Include="1620.c">
-      <Filter>Gori Problems\21_2_4</Filter>
-    </ClCompile>
     <ClCompile Include="12930.cpp">
       <Filter>Gori Problems\21_2_5</Filter>
     </ClCompile>
@@ -1710,9 +1545,6 @@
     <ClCompile Include="17144.cpp">
       <Filter>Gori Problems\21_2_7</Filter>
     </ClCompile>
-    <ClCompile Include="16928.cpp">
-      <Filter>Gori Problems\21_2_7</Filter>
-    </ClCompile>
     <ClCompile Include="17425.c">
       <Filter>Gori Problems\21_2_8</Filter>
     </ClCompile>
@@ -1739,12 +1571,6 @@
     </ClCompile>
     <ClCompile Include="16972.c">
       <Filter>Gori Problems\21_2_8</Filter>
-    </ClCompile>
-    <ClCompile Include="26326.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
-    <ClCompile Include="5504.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
     </ClCompile>
     <ClCompile Include="11559.cpp">
       <Filter>Gori Problems\21_W_1</Filter>
@@ -1840,9 +1666,6 @@
       <Filter>Gori Problems\21_W_6</Filter>
     </ClCompile>
     <ClCompile Include="3024.cpp">
-      <Filter>Gori Problems\21_W_6</Filter>
-    </ClCompile>
-    <ClCompile Include="1269.cpp">
       <Filter>Gori Problems\21_W_6</Filter>
     </ClCompile>
     <ClCompile Include="1399.cpp">
@@ -1953,15 +1776,6 @@
     <ClCompile Include="2737.cpp">
       <Filter>Gori Problems\22_1_3</Filter>
     </ClCompile>
-    <ClCompile Include="3788.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
-    <ClCompile Include="6269.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
-    <ClCompile Include="6270.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
     <ClCompile Include="1062.cpp">
       <Filter>Gori Problems\22_1_4</Filter>
     </ClCompile>
@@ -1972,9 +1786,6 @@
       <Filter>Gori Problems\22_1_4</Filter>
     </ClCompile>
     <ClCompile Include="1480.cpp">
-      <Filter>Gori Problems\22_1_4</Filter>
-    </ClCompile>
-    <ClCompile Include="1735.cpp">
       <Filter>Gori Problems\22_1_4</Filter>
     </ClCompile>
     <ClCompile Include="2075.cpp">
@@ -2017,9 +1828,6 @@
       <Filter>Gori Problems\22_1_7</Filter>
     </ClCompile>
     <ClCompile Include="15904.cpp">
-      <Filter>Gori Problems\22_1_7</Filter>
-    </ClCompile>
-    <ClCompile Include="15894.cpp">
       <Filter>Gori Problems\22_1_7</Filter>
     </ClCompile>
     <ClCompile Include="27162.cpp">
@@ -2154,9 +1962,6 @@
     <ClCompile Include="14567.cpp">
       <Filter>Gori Problems\22_1_11</Filter>
     </ClCompile>
-    <ClCompile Include="14010.cpp">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
     <ClCompile Include="1677.cpp">
       <Filter>Gori Problems\22_S_1</Filter>
     </ClCompile>
@@ -2174,9 +1979,6 @@
     </ClCompile>
     <ClCompile Include="2343.cpp">
       <Filter>Gori Problems\22_S_1</Filter>
-    </ClCompile>
-    <ClCompile Include="10718.c">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
     </ClCompile>
     <ClCompile Include="10926.cpp">
       <Filter>BOJ Source File\1. 입출력과 사칙연산</Filter>
@@ -2200,7 +2002,7 @@
       <Filter>BOJ Source File\3. 반복문</Filter>
     </ClCompile>
     <ClCompile Include="1110.c">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="25304.cpp">
       <Filter>BOJ Source File\3. 반복문</Filter>
@@ -2209,13 +2011,13 @@
       <Filter>BOJ Source File\3. 반복문</Filter>
     </ClCompile>
     <ClCompile Include="8958.c">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="4344.c">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="2577.c">
-      <Filter>BOJ Source File\0. Default/Challenger\Bronze Killer</Filter>
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
     </ClCompile>
     <ClCompile Include="10871.c">
       <Filter>BOJ Source File\4. 1차원 배열</Filter>
@@ -2244,12 +2046,6 @@
     <ClCompile Include="9086.cpp">
       <Filter>BOJ Source File\5. 문자열</Filter>
     </ClCompile>
-    <ClCompile Include="4673.c">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
-    <ClCompile Include="15596.c">
-      <Filter>BOJ Source File\0. Default/Challenger</Filter>
-    </ClCompile>
     <ClCompile Include="2444.c">
       <Filter>BOJ Source File\6. 심화 1</Filter>
     </ClCompile>
@@ -2275,16 +2071,16 @@
       <Filter>BOJ Source File\6. 심화 1</Filter>
     </ClCompile>
     <ClCompile Include="2738.cpp">
-      <Filter>BOJ Source File\7. 2차원 배열 %28절취선 ------%29</Filter>
+      <Filter>BOJ Source File\7. 2차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="2566.cpp">
-      <Filter>BOJ Source File\7. 2차원 배열 %28절취선 ------%29</Filter>
+      <Filter>BOJ Source File\7. 2차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="10798.cpp">
-      <Filter>BOJ Source File\7. 2차원 배열 %28절취선 ------%29</Filter>
+      <Filter>BOJ Source File\7. 2차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="2563.cpp">
-      <Filter>BOJ Source File\7. 2차원 배열 %28절취선 ------%29</Filter>
+      <Filter>BOJ Source File\7. 2차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="2741.c">
       <Filter>Gori Problems\문제집1. 알고리즘과 입출력</Filter>
@@ -2331,10 +2127,319 @@
     <ClCompile Include="2217.c">
       <Filter>Gori Problems\21_S_4</Filter>
     </ClCompile>
+    <ClCompile Include="1712.c">
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="1011.c">
+      <Filter>BOJ Source File\0. Default/Challenger\3_Gold</Filter>
+    </ClCompile>
+    <ClCompile Include="1475.c">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="3788.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="4673.c">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="5504.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger\3_Gold</Filter>
+    </ClCompile>
+    <ClCompile Include="6064.c">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="6269.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="6270.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="10718.c">
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="13159%28hard unso%29.c">
+      <Filter>BOJ Source File\0. Default/Challenger\5_Diamond+</Filter>
+    </ClCompile>
+    <ClCompile Include="14010.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="15596.c">
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="18111.c">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="19585.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger\4_Platinum</Filter>
+    </ClCompile>
+    <ClCompile Include="26326.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="2775.c">
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="2839.c">
+      <Filter>BOJ Source File\12. 브루트 포스</Filter>
+    </ClCompile>
+    <ClCompile Include="10250.c">
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="10757.c">
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="11005.c">
+      <Filter>BOJ Source File\8. 일반 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2745.c">
+      <Filter>BOJ Source File\8. 일반 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2720.cpp">
+      <Filter>BOJ Source File\8. 일반 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2903.cpp">
+      <Filter>BOJ Source File\8. 일반 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1002.c">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="1085.c">
+      <Filter>BOJ Source File\10. 기하 : 직사각형과 삼각형</Filter>
+    </ClCompile>
+    <ClCompile Include="1929.c">
+      <Filter>BOJ Source File\15. 약수, 배수와 소수 2</Filter>
+    </ClCompile>
+    <ClCompile Include="3009.c">
+      <Filter>BOJ Source File\10. 기하 : 직사각형과 삼각형</Filter>
+    </ClCompile>
+    <ClCompile Include="3053.c">
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="4153.c">
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="4948.c">
+      <Filter>BOJ Source File\15. 약수, 배수와 소수 2</Filter>
+    </ClCompile>
+    <ClCompile Include="9020.c">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="5086.c">
+      <Filter>BOJ Source File\9. 약수, 배수와 소수</Filter>
+    </ClCompile>
+    <ClCompile Include="2501.cpp">
+      <Filter>BOJ Source File\9. 약수, 배수와 소수</Filter>
+    </ClCompile>
+    <ClCompile Include="9506.cpp">
+      <Filter>BOJ Source File\9. 약수, 배수와 소수</Filter>
+    </ClCompile>
+    <ClCompile Include="15894.cpp">
+      <Filter>BOJ Source File\10. 기하 : 직사각형과 삼각형</Filter>
+    </ClCompile>
+    <ClCompile Include="27323.cpp">
+      <Filter>BOJ Source File\10. 기하 : 직사각형과 삼각형</Filter>
+    </ClCompile>
+    <ClCompile Include="9063.cpp">
+      <Filter>BOJ Source File\10. 기하 : 직사각형과 삼각형</Filter>
+    </ClCompile>
+    <ClCompile Include="10101.cpp">
+      <Filter>BOJ Source File\10. 기하 : 직사각형과 삼각형</Filter>
+    </ClCompile>
+    <ClCompile Include="5073.cpp">
+      <Filter>BOJ Source File\10. 기하 : 직사각형과 삼각형</Filter>
+    </ClCompile>
+    <ClCompile Include="14215.cpp">
+      <Filter>BOJ Source File\10. 기하 : 직사각형과 삼각형</Filter>
+    </ClCompile>
+    <ClCompile Include="24262.cpp">
+      <Filter>BOJ Source File\11. 시간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="24263.cpp">
+      <Filter>BOJ Source File\11. 시간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="24265.cpp">
+      <Filter>BOJ Source File\11. 시간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="24264.cpp">
+      <Filter>BOJ Source File\11. 시간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="24266.cpp">
+      <Filter>BOJ Source File\11. 시간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="24267.cpp">
+      <Filter>BOJ Source File\11. 시간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="24313.cpp">
+      <Filter>BOJ Source File\11. 시간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="7568.c">
+      <Filter>Gori Problems\21_S_1</Filter>
+    </ClCompile>
+    <ClCompile Include="19532.cpp">
+      <Filter>BOJ Source File\12. 브루트 포스</Filter>
+    </ClCompile>
+    <ClCompile Include="2108.c">
+      <Filter>BOJ Source File\20. 심화 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2587.cpp">
+      <Filter>BOJ Source File\13. 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="25305.cpp">
+      <Filter>BOJ Source File\13. 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="10815.cpp">
+      <Filter>BOJ Source File\14. 집합과 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="1620.c">
+      <Filter>BOJ Source File\14. 집합과 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="10816.c">
+      <Filter>BOJ Source File\14. 집합과 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="1269.cpp">
+      <Filter>BOJ Source File\14. 집합과 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="2164.c">
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
+    </ClCompile>
+    <ClCompile Include="11866.c">
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
+    </ClCompile>
+    <ClCompile Include="18258.c">
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
+    </ClCompile>
+    <ClCompile Include="1735.cpp">
+      <Filter>BOJ Source File\15. 약수, 배수와 소수 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1934.c">
+      <Filter>BOJ Source File\15. 약수, 배수와 소수 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1021.c">
+      <Filter>BOJ Source File\0. Default/Challenger\1_Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="1874.c">
+      <Filter>Gori Problems\22_1_2</Filter>
+    </ClCompile>
+    <ClCompile Include="1966.c">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="5430.c">
+      <Filter>Gori Problems\21_2_3</Filter>
+    </ClCompile>
+    <ClCompile Include="10828.c">
+      <Filter>Gori Problems\22_1_2</Filter>
+    </ClCompile>
+    <ClCompile Include="17298.cpp">
+      <Filter>BOJ Source File\30. 스택 2</Filter>
+    </ClCompile>
+    <ClCompile Include="10866.c">
+      <Filter>Gori Problems\22_1_2</Filter>
+    </ClCompile>
+    <ClCompile Include="1037.c">
+      <Filter>BOJ Source File\20. 심화 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1676.c">
+      <Filter>Gori Problems\22_1_3</Filter>
+    </ClCompile>
+    <ClCompile Include="2004.c">
+      <Filter>Gori Problems\22_1_3</Filter>
+    </ClCompile>
+    <ClCompile Include="2609.c">
+      <Filter>Gori Problems\22_1_3</Filter>
+    </ClCompile>
+    <ClCompile Include="2981.c">
+      <Filter>BOJ Source File\0. Default/Challenger\3_Gold</Filter>
+    </ClCompile>
+    <ClCompile Include="3036.c">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="9375.c">
+      <Filter>BOJ Source File\0. Default/Challenger\2_Silver</Filter>
+    </ClCompile>
+    <ClCompile Include="16395.cpp">
+      <Filter>Gori Problems\20_2_3. 이항 계수</Filter>
+    </ClCompile>
+    <ClCompile Include="11051.c">
+      <Filter>Gori Problems\20_2_3. 이항 계수</Filter>
+    </ClCompile>
+    <ClCompile Include="11050.c">
+      <Filter>BOJ Source File\19. 조합론</Filter>
+    </ClCompile>
+    <ClCompile Include="10872.c">
+      <Filter>BOJ Source File\19. 조합론</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.c">
+      <Filter>Gori Problems\21_2_2</Filter>
+    </ClCompile>
+    <ClCompile Include="11659.cpp">
+      <Filter>BOJ Source File\24. 누적 합</Filter>
+    </ClCompile>
+    <ClCompile Include="2261.c">
+      <Filter>Gori Problems\21_S_5</Filter>
+    </ClCompile>
+    <ClCompile Include="1655.c">
+      <Filter>BOJ Source File\0. Default/Challenger\3_Gold</Filter>
+    </ClCompile>
+    <ClCompile Include="10942.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger\3_Gold</Filter>
+    </ClCompile>
+    <ClCompile Include="16928.cpp">
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
+    </ClCompile>
+    <ClCompile Include="10217%28unso%29.cpp">
+      <Filter>Gori Problems\20_2_2. 다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="13549.cpp">
+      <Filter>BOJ Source File\32. 최단 경로</Filter>
+    </ClCompile>
+    <ClCompile Include="2887.cpp">
+      <Filter>BOJ Source File\0. Default/Challenger\4_Platinum</Filter>
+    </ClCompile>
+    <ClCompile Include="14425.cpp">
+      <Filter>BOJ Source File\14. 집합과 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="1764.cpp">
+      <Filter>BOJ Source File\14. 집합과 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="7785.cpp">
+      <Filter>BOJ Source File\14. 집합과 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="11478.cpp">
+      <Filter>BOJ Source File\14. 집합과 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="13241.cpp">
+      <Filter>BOJ Source File\15. 약수, 배수와 소수 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2485.cpp">
+      <Filter>BOJ Source File\15. 약수, 배수와 소수 2</Filter>
+    </ClCompile>
+    <ClCompile Include="4134.cpp">
+      <Filter>BOJ Source File\15. 약수, 배수와 소수 2</Filter>
+    </ClCompile>
+    <ClCompile Include="17103.cpp">
+      <Filter>BOJ Source File\15. 약수, 배수와 소수 2</Filter>
+    </ClCompile>
+    <ClCompile Include="13909.cpp">
+      <Filter>BOJ Source File\15. 약수, 배수와 소수 2</Filter>
+    </ClCompile>
+    <ClCompile Include="28278.cpp">
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
+    </ClCompile>
+    <ClCompile Include="12789.cpp">
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
+    </ClCompile>
+    <ClCompile Include="28279.cpp">
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
+    </ClCompile>
+    <ClCompile Include="2346.cpp">
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
+    </ClCompile>
+    <ClCompile Include="24511.cpp">
+      <Filter>BOJ Source File\16. 스택, 큐, 덱</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1012.py">
-      <Filter>BOJ Source File\24. DFS와 BFS</Filter>
+      <Filter>BOJ Source File\31. 그래프와 순회</Filter>
     </None>
   </ItemGroup>
 </Project>

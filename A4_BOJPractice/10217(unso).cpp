@@ -1,6 +1,6 @@
 //https://www.acmicpc.net/problem/10217
 
-/*KCM Travel (Platinum 5)
+/*KCM Travel (Platinum 4)
 LA에서 구글 코드 대회에 출전하게 된 찬민이는 구글이 항공비에 상한을 둔 것을 알게 되었다.
 각 공항들간 항공비와 이동시간이 주어질 때, 인천에서 LA로 갈 수 있는 (제한된 항공비 내에서) 가장 빠른 길을 찾아, 그 시간을 출력하시오.
 항공비 제한 안에 LA로 갈 수 없다면 Poor KCM을 출력하시오.
